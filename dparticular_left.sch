@@ -1,0 +1,1911 @@
+EESchema Schematic File Version 4
+EELAYER 30 0
+EELAYER END
+$Descr A4 11693 8268
+encoding utf-8
+Sheet 3 3
+Title ""
+Date ""
+Rev ""
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+$Comp
+L Switch:SW_Push SW2:?
+U 1 1 60E5CE4D
+P 9900 2450
+AR Path="/60E5CE4D" Ref="SW2:?"  Part="1" 
+AR Path="/60E14924/60E5CE4D" Ref="SW3:7"  Part="1" 
+F 0 "SW3:7" H 9750 2600 50  0000 C CNN
+F 1 "Key_4" H 10050 2600 50  0000 C CNN
+F 2 "" H 9900 2650 50  0001 C CNN
+F 3 "~" H 9900 2650 50  0001 C CNN
+	1    9900 2450
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D D?
+U 1 1 60E5CE53
+P 9900 2600
+AR Path="/60E5CE53" Ref="D?"  Part="1" 
+AR Path="/60E14924/60E5CE53" Ref="D3:7"  Part="1" 
+F 0 "D3:7" H 9900 2500 50  0000 C CNN
+F 1 "D" H 10050 2500 50  0001 C CNN
+F 2 "" H 9900 2600 50  0001 C CNN
+F 3 "~" H 9900 2600 50  0001 C CNN
+	1    9900 2600
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW3:?
+U 1 1 60E5CE59
+P 10700 3250
+AR Path="/60E5CE59" Ref="SW3:?"  Part="1" 
+AR Path="/60E14924/60E5CE59" Ref="SW4:8"  Part="1" 
+F 0 "SW4:8" H 10550 3400 50  0000 C CNN
+F 1 "Key_T" H 10850 3400 50  0000 C CNN
+F 2 "" H 10700 3450 50  0001 C CNN
+F 3 "~" H 10700 3450 50  0001 C CNN
+	1    10700 3250
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D D?
+U 1 1 60E5CE5F
+P 10700 3400
+AR Path="/60E5CE5F" Ref="D?"  Part="1" 
+AR Path="/60E14924/60E5CE5F" Ref="D4:8"  Part="1" 
+F 0 "D4:8" H 10700 3300 50  0000 C CNN
+F 1 "D" H 10850 3300 50  0001 C CNN
+F 2 "" H 10700 3400 50  0001 C CNN
+F 3 "~" H 10700 3400 50  0001 C CNN
+	1    10700 3400
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW2:?
+U 1 1 60E5CE65
+P 10700 2450
+AR Path="/60E5CE65" Ref="SW2:?"  Part="1" 
+AR Path="/60E14924/60E5CE65" Ref="SW3:8"  Part="1" 
+F 0 "SW3:8" H 10550 2600 50  0000 C CNN
+F 1 "Key_5" H 10850 2600 50  0000 C CNN
+F 2 "" H 10700 2650 50  0001 C CNN
+F 3 "~" H 10700 2650 50  0001 C CNN
+	1    10700 2450
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D D?
+U 1 1 60E5CE6B
+P 10700 2600
+AR Path="/60E5CE6B" Ref="D?"  Part="1" 
+AR Path="/60E14924/60E5CE6B" Ref="D3:8"  Part="1" 
+F 0 "D3:8" H 10700 2500 50  0000 C CNN
+F 1 "D" H 10850 2500 50  0001 C CNN
+F 2 "" H 10700 2600 50  0001 C CNN
+F 3 "~" H 10700 2600 50  0001 C CNN
+	1    10700 2600
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW3:?
+U 1 1 60E5CE71
+P 9900 3250
+AR Path="/60E5CE71" Ref="SW3:?"  Part="1" 
+AR Path="/60E14924/60E5CE71" Ref="SW4:7"  Part="1" 
+F 0 "SW4:7" H 9750 3400 50  0000 C CNN
+F 1 "Key_R" H 10050 3400 50  0000 C CNN
+F 2 "" H 9900 3450 50  0001 C CNN
+F 3 "~" H 9900 3450 50  0001 C CNN
+	1    9900 3250
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D D?
+U 1 1 60E5CE77
+P 9900 3400
+AR Path="/60E5CE77" Ref="D?"  Part="1" 
+AR Path="/60E14924/60E5CE77" Ref="D4:7"  Part="1" 
+F 0 "D4:7" H 9900 3300 50  0000 C CNN
+F 1 "D" H 10050 3300 50  0001 C CNN
+F 2 "" H 9900 3400 50  0001 C CNN
+F 3 "~" H 9900 3400 50  0001 C CNN
+	1    9900 3400
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW4:?
+U 1 1 60E5CE7D
+P 9900 4050
+AR Path="/60E5CE7D" Ref="SW4:?"  Part="1" 
+AR Path="/60E14924/60E5CE7D" Ref="SW5:7"  Part="1" 
+F 0 "SW5:7" H 9750 4200 50  0000 C CNN
+F 1 "Key_F" H 10050 4200 50  0000 C CNN
+F 2 "" H 9900 4250 50  0001 C CNN
+F 3 "~" H 9900 4250 50  0001 C CNN
+	1    9900 4050
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D D?
+U 1 1 60E5CE83
+P 9900 4200
+AR Path="/60E5CE83" Ref="D?"  Part="1" 
+AR Path="/60E14924/60E5CE83" Ref="D5:7"  Part="1" 
+F 0 "D5:7" H 9900 4100 50  0000 C CNN
+F 1 "D" H 10050 4100 50  0001 C CNN
+F 2 "" H 9900 4200 50  0001 C CNN
+F 3 "~" H 9900 4200 50  0001 C CNN
+	1    9900 4200
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW5:?
+U 1 1 60E5CE89
+P 10700 4850
+AR Path="/60E5CE89" Ref="SW5:?"  Part="1" 
+AR Path="/60E14924/60E5CE89" Ref="SW6:8"  Part="1" 
+F 0 "SW6:8" H 10550 5000 50  0000 C CNN
+F 1 "Key_B" H 10850 5000 50  0000 C CNN
+F 2 "" H 10700 5050 50  0001 C CNN
+F 3 "~" H 10700 5050 50  0001 C CNN
+	1    10700 4850
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D D?
+U 1 1 60E5CE8F
+P 10700 5000
+AR Path="/60E5CE8F" Ref="D?"  Part="1" 
+AR Path="/60E14924/60E5CE8F" Ref="D6:8"  Part="1" 
+F 0 "D6:8" H 10700 4900 50  0000 C CNN
+F 1 "D" H 10850 4900 50  0001 C CNN
+F 2 "" H 10700 5000 50  0001 C CNN
+F 3 "~" H 10700 5000 50  0001 C CNN
+	1    10700 5000
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW4:?
+U 1 1 60E5CE95
+P 10700 4050
+AR Path="/60E5CE95" Ref="SW4:?"  Part="1" 
+AR Path="/60E14924/60E5CE95" Ref="SW5:8"  Part="1" 
+F 0 "SW5:8" H 10550 4200 50  0000 C CNN
+F 1 "Key_G" H 10850 4200 50  0000 C CNN
+F 2 "" H 10700 4250 50  0001 C CNN
+F 3 "~" H 10700 4250 50  0001 C CNN
+	1    10700 4050
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D D?
+U 1 1 60E5CE9B
+P 10700 4200
+AR Path="/60E5CE9B" Ref="D?"  Part="1" 
+AR Path="/60E14924/60E5CE9B" Ref="D5:8"  Part="1" 
+F 0 "D5:8" H 10700 4100 50  0000 C CNN
+F 1 "D" H 10850 4100 50  0001 C CNN
+F 2 "" H 10700 4200 50  0001 C CNN
+F 3 "~" H 10700 4200 50  0001 C CNN
+	1    10700 4200
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW5:?
+U 1 1 60E5CEA1
+P 9900 4850
+AR Path="/60E5CEA1" Ref="SW5:?"  Part="1" 
+AR Path="/60E14924/60E5CEA1" Ref="SW6:7"  Part="1" 
+F 0 "SW6:7" H 9750 5000 50  0000 C CNN
+F 1 "Key_V" H 10050 5000 50  0000 C CNN
+F 2 "" H 9900 5050 50  0001 C CNN
+F 3 "~" H 9900 5050 50  0001 C CNN
+	1    9900 4850
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D D?
+U 1 1 60E5CEA7
+P 9900 5000
+AR Path="/60E5CEA7" Ref="D?"  Part="1" 
+AR Path="/60E14924/60E5CEA7" Ref="D6:7"  Part="1" 
+F 0 "D6:7" H 9900 4900 50  0000 C CNN
+F 1 "D" H 10050 4900 50  0001 C CNN
+F 2 "" H 9900 5000 50  0001 C CNN
+F 3 "~" H 9900 5000 50  0001 C CNN
+	1    9900 5000
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW2:?
+U 1 1 60E5CEAD
+P 8300 2450
+AR Path="/60E5CEAD" Ref="SW2:?"  Part="1" 
+AR Path="/60E14924/60E5CEAD" Ref="SW3:5"  Part="1" 
+F 0 "SW3:5" H 8150 2600 50  0000 C CNN
+F 1 "Key_2" H 8450 2600 50  0000 C CNN
+F 2 "" H 8300 2650 50  0001 C CNN
+F 3 "~" H 8300 2650 50  0001 C CNN
+	1    8300 2450
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D D?
+U 1 1 60E5CEB3
+P 8300 2600
+AR Path="/60E5CEB3" Ref="D?"  Part="1" 
+AR Path="/60E14924/60E5CEB3" Ref="D3:5"  Part="1" 
+F 0 "D3:5" H 8300 2500 50  0000 C CNN
+F 1 "D" H 8450 2500 50  0001 C CNN
+F 2 "" H 8300 2600 50  0001 C CNN
+F 3 "~" H 8300 2600 50  0001 C CNN
+	1    8300 2600
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW3:?
+U 1 1 60E5CEB9
+P 9100 3250
+AR Path="/60E5CEB9" Ref="SW3:?"  Part="1" 
+AR Path="/60E14924/60E5CEB9" Ref="SW4:6"  Part="1" 
+F 0 "SW4:6" H 8950 3400 50  0000 C CNN
+F 1 "Key_E" H 9250 3400 50  0000 C CNN
+F 2 "" H 9100 3450 50  0001 C CNN
+F 3 "~" H 9100 3450 50  0001 C CNN
+	1    9100 3250
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D D?
+U 1 1 60E5CEBF
+P 9100 3400
+AR Path="/60E5CEBF" Ref="D?"  Part="1" 
+AR Path="/60E14924/60E5CEBF" Ref="D4:6"  Part="1" 
+F 0 "D4:6" H 9100 3300 50  0000 C CNN
+F 1 "D" H 9250 3300 50  0001 C CNN
+F 2 "" H 9100 3400 50  0001 C CNN
+F 3 "~" H 9100 3400 50  0001 C CNN
+	1    9100 3400
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW2:?
+U 1 1 60E5CEC5
+P 9100 2450
+AR Path="/60E5CEC5" Ref="SW2:?"  Part="1" 
+AR Path="/60E14924/60E5CEC5" Ref="SW3:6"  Part="1" 
+F 0 "SW3:6" H 8950 2600 50  0000 C CNN
+F 1 "Key_3" H 9250 2600 50  0000 C CNN
+F 2 "" H 9100 2650 50  0001 C CNN
+F 3 "~" H 9100 2650 50  0001 C CNN
+	1    9100 2450
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D D?
+U 1 1 60E5CECB
+P 9100 2600
+AR Path="/60E5CECB" Ref="D?"  Part="1" 
+AR Path="/60E14924/60E5CECB" Ref="D3:6"  Part="1" 
+F 0 "D3:6" H 9100 2500 50  0000 C CNN
+F 1 "D" H 9250 2500 50  0001 C CNN
+F 2 "" H 9100 2600 50  0001 C CNN
+F 3 "~" H 9100 2600 50  0001 C CNN
+	1    9100 2600
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW3:?
+U 1 1 60E5CED1
+P 8300 3250
+AR Path="/60E5CED1" Ref="SW3:?"  Part="1" 
+AR Path="/60E14924/60E5CED1" Ref="SW4:5"  Part="1" 
+F 0 "SW4:5" H 8150 3400 50  0000 C CNN
+F 1 "Key_W" H 8450 3400 50  0000 C CNN
+F 2 "" H 8300 3450 50  0001 C CNN
+F 3 "~" H 8300 3450 50  0001 C CNN
+	1    8300 3250
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D D?
+U 1 1 60E5CED7
+P 8300 3400
+AR Path="/60E5CED7" Ref="D?"  Part="1" 
+AR Path="/60E14924/60E5CED7" Ref="D4:5"  Part="1" 
+F 0 "D4:5" H 8300 3300 50  0000 C CNN
+F 1 "D" H 8450 3300 50  0001 C CNN
+F 2 "" H 8300 3400 50  0001 C CNN
+F 3 "~" H 8300 3400 50  0001 C CNN
+	1    8300 3400
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW4:?
+U 1 1 60E5CEDD
+P 8300 4050
+AR Path="/60E5CEDD" Ref="SW4:?"  Part="1" 
+AR Path="/60E14924/60E5CEDD" Ref="SW5:5"  Part="1" 
+F 0 "SW5:5" H 8150 4200 50  0000 C CNN
+F 1 "Key_S" H 8450 4200 50  0000 C CNN
+F 2 "" H 8300 4250 50  0001 C CNN
+F 3 "~" H 8300 4250 50  0001 C CNN
+	1    8300 4050
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D D?
+U 1 1 60E5CEE3
+P 8300 4200
+AR Path="/60E5CEE3" Ref="D?"  Part="1" 
+AR Path="/60E14924/60E5CEE3" Ref="D5:5"  Part="1" 
+F 0 "D5:5" H 8300 4100 50  0000 C CNN
+F 1 "D" H 8450 4100 50  0001 C CNN
+F 2 "" H 8300 4200 50  0001 C CNN
+F 3 "~" H 8300 4200 50  0001 C CNN
+	1    8300 4200
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW5:?
+U 1 1 60E5CEE9
+P 9100 4850
+AR Path="/60E5CEE9" Ref="SW5:?"  Part="1" 
+AR Path="/60E14924/60E5CEE9" Ref="SW6:6"  Part="1" 
+F 0 "SW6:6" H 8950 5000 50  0000 C CNN
+F 1 "Key_C" H 9250 5000 50  0000 C CNN
+F 2 "" H 9100 5050 50  0001 C CNN
+F 3 "~" H 9100 5050 50  0001 C CNN
+	1    9100 4850
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D D?
+U 1 1 60E5CEEF
+P 9100 5000
+AR Path="/60E5CEEF" Ref="D?"  Part="1" 
+AR Path="/60E14924/60E5CEEF" Ref="D6:6"  Part="1" 
+F 0 "D6:6" H 9100 4900 50  0000 C CNN
+F 1 "D" H 9250 4900 50  0001 C CNN
+F 2 "" H 9100 5000 50  0001 C CNN
+F 3 "~" H 9100 5000 50  0001 C CNN
+	1    9100 5000
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW4:?
+U 1 1 60E5CEF5
+P 9100 4050
+AR Path="/60E5CEF5" Ref="SW4:?"  Part="1" 
+AR Path="/60E14924/60E5CEF5" Ref="SW5:6"  Part="1" 
+F 0 "SW5:6" H 8950 4200 50  0000 C CNN
+F 1 "Key_D" H 9250 4200 50  0000 C CNN
+F 2 "" H 9100 4250 50  0001 C CNN
+F 3 "~" H 9100 4250 50  0001 C CNN
+	1    9100 4050
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D D?
+U 1 1 60E5CEFB
+P 9100 4200
+AR Path="/60E5CEFB" Ref="D?"  Part="1" 
+AR Path="/60E14924/60E5CEFB" Ref="D5:6"  Part="1" 
+F 0 "D5:6" H 9100 4100 50  0000 C CNN
+F 1 "D" H 9250 4100 50  0001 C CNN
+F 2 "" H 9100 4200 50  0001 C CNN
+F 3 "~" H 9100 4200 50  0001 C CNN
+	1    9100 4200
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW5:?
+U 1 1 60E5CF01
+P 8300 4850
+AR Path="/60E5CF01" Ref="SW5:?"  Part="1" 
+AR Path="/60E14924/60E5CF01" Ref="SW6:5"  Part="1" 
+F 0 "SW6:5" H 8150 5000 50  0000 C CNN
+F 1 "Key_X" H 8450 5000 50  0000 C CNN
+F 2 "" H 8300 5050 50  0001 C CNN
+F 3 "~" H 8300 5050 50  0001 C CNN
+	1    8300 4850
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D D?
+U 1 1 60E5CF07
+P 8300 5000
+AR Path="/60E5CF07" Ref="D?"  Part="1" 
+AR Path="/60E14924/60E5CF07" Ref="D6:5"  Part="1" 
+F 0 "D6:5" H 8300 4900 50  0000 C CNN
+F 1 "D" H 8450 4900 50  0001 C CNN
+F 2 "" H 8300 5000 50  0001 C CNN
+F 3 "~" H 8300 5000 50  0001 C CNN
+	1    8300 5000
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW2:?
+U 1 1 60E5CF0D
+P 6700 2450
+AR Path="/60E5CF0D" Ref="SW2:?"  Part="1" 
+AR Path="/60E14924/60E5CF0D" Ref="SW3:3"  Part="1" 
+F 0 "SW3:3" H 6550 2600 50  0000 C CNN
+F 1 "Key_Tlde" H 6850 2600 50  0000 C CNN
+F 2 "" H 6700 2650 50  0001 C CNN
+F 3 "~" H 6700 2650 50  0001 C CNN
+	1    6700 2450
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D D?
+U 1 1 60E5CF13
+P 6700 2600
+AR Path="/60E5CF13" Ref="D?"  Part="1" 
+AR Path="/60E14924/60E5CF13" Ref="D3:3"  Part="1" 
+F 0 "D3:3" H 6700 2500 50  0000 C CNN
+F 1 "D" H 6850 2500 50  0001 C CNN
+F 2 "" H 6700 2600 50  0001 C CNN
+F 3 "~" H 6700 2600 50  0001 C CNN
+	1    6700 2600
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW3:?
+U 1 1 60E5CF19
+P 7500 3250
+AR Path="/60E5CF19" Ref="SW3:?"  Part="1" 
+AR Path="/60E14924/60E5CF19" Ref="SW4:4"  Part="1" 
+F 0 "SW4:4" H 7350 3400 50  0000 C CNN
+F 1 "Key_Q" H 7650 3400 50  0000 C CNN
+F 2 "" H 7500 3450 50  0001 C CNN
+F 3 "~" H 7500 3450 50  0001 C CNN
+	1    7500 3250
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D D?
+U 1 1 60E5CF1F
+P 7500 3400
+AR Path="/60E5CF1F" Ref="D?"  Part="1" 
+AR Path="/60E14924/60E5CF1F" Ref="D4:4"  Part="1" 
+F 0 "D4:4" H 7500 3300 50  0000 C CNN
+F 1 "D" H 7650 3300 50  0001 C CNN
+F 2 "" H 7500 3400 50  0001 C CNN
+F 3 "~" H 7500 3400 50  0001 C CNN
+	1    7500 3400
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW2:?
+U 1 1 60E5CF25
+P 7500 2450
+AR Path="/60E5CF25" Ref="SW2:?"  Part="1" 
+AR Path="/60E14924/60E5CF25" Ref="SW3:4"  Part="1" 
+F 0 "SW3:4" H 7350 2600 50  0000 C CNN
+F 1 "Key_1" H 7650 2600 50  0000 C CNN
+F 2 "" H 7500 2650 50  0001 C CNN
+F 3 "~" H 7500 2650 50  0001 C CNN
+	1    7500 2450
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D D?
+U 1 1 60E5CF2B
+P 7500 2600
+AR Path="/60E5CF2B" Ref="D?"  Part="1" 
+AR Path="/60E14924/60E5CF2B" Ref="D3:4"  Part="1" 
+F 0 "D3:4" H 7500 2500 50  0000 C CNN
+F 1 "D" H 7650 2500 50  0001 C CNN
+F 2 "" H 7500 2600 50  0001 C CNN
+F 3 "~" H 7500 2600 50  0001 C CNN
+	1    7500 2600
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW3:?
+U 1 1 60E5CF31
+P 6700 3250
+AR Path="/60E5CF31" Ref="SW3:?"  Part="1" 
+AR Path="/60E14924/60E5CF31" Ref="SW4:3"  Part="1" 
+F 0 "SW4:3" H 6550 3400 50  0000 C CNN
+F 1 "Key_Tab" H 6850 3400 50  0000 C CNN
+F 2 "" H 6700 3450 50  0001 C CNN
+F 3 "~" H 6700 3450 50  0001 C CNN
+	1    6700 3250
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D D?
+U 1 1 60E5CF37
+P 6700 3400
+AR Path="/60E5CF37" Ref="D?"  Part="1" 
+AR Path="/60E14924/60E5CF37" Ref="D4:3"  Part="1" 
+F 0 "D4:3" H 6700 3300 50  0000 C CNN
+F 1 "D" H 6850 3300 50  0001 C CNN
+F 2 "" H 6700 3400 50  0001 C CNN
+F 3 "~" H 6700 3400 50  0001 C CNN
+	1    6700 3400
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW4:?
+U 1 1 60E5CF3D
+P 6700 4050
+AR Path="/60E5CF3D" Ref="SW4:?"  Part="1" 
+AR Path="/60E14924/60E5CF3D" Ref="SW5:3"  Part="1" 
+F 0 "SW5:3" H 6550 4200 50  0000 C CNN
+F 1 "Key_Caps" H 6850 4200 50  0000 C CNN
+F 2 "" H 6700 4250 50  0001 C CNN
+F 3 "~" H 6700 4250 50  0001 C CNN
+	1    6700 4050
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D D?
+U 1 1 60E5CF43
+P 6700 4200
+AR Path="/60E5CF43" Ref="D?"  Part="1" 
+AR Path="/60E14924/60E5CF43" Ref="D5:3"  Part="1" 
+F 0 "D5:3" H 6700 4100 50  0000 C CNN
+F 1 "D" H 6850 4100 50  0001 C CNN
+F 2 "" H 6700 4200 50  0001 C CNN
+F 3 "~" H 6700 4200 50  0001 C CNN
+	1    6700 4200
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW5:?
+U 1 1 60E5CF49
+P 7500 4850
+AR Path="/60E5CF49" Ref="SW5:?"  Part="1" 
+AR Path="/60E14924/60E5CF49" Ref="SW6:4"  Part="1" 
+F 0 "SW6:4" H 7350 5000 50  0000 C CNN
+F 1 "Key_Z" H 7650 5000 50  0000 C CNN
+F 2 "" H 7500 5050 50  0001 C CNN
+F 3 "~" H 7500 5050 50  0001 C CNN
+	1    7500 4850
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D D?
+U 1 1 60E5CF4F
+P 7500 5000
+AR Path="/60E5CF4F" Ref="D?"  Part="1" 
+AR Path="/60E14924/60E5CF4F" Ref="D6:4"  Part="1" 
+F 0 "D6:4" H 7500 4900 50  0000 C CNN
+F 1 "D" H 7650 4900 50  0001 C CNN
+F 2 "" H 7500 5000 50  0001 C CNN
+F 3 "~" H 7500 5000 50  0001 C CNN
+	1    7500 5000
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW4:?
+U 1 1 60E5CF55
+P 7500 4050
+AR Path="/60E5CF55" Ref="SW4:?"  Part="1" 
+AR Path="/60E14924/60E5CF55" Ref="SW5:4"  Part="1" 
+F 0 "SW5:4" H 7350 4200 50  0000 C CNN
+F 1 "Key_A" H 7650 4200 50  0000 C CNN
+F 2 "" H 7500 4250 50  0001 C CNN
+F 3 "~" H 7500 4250 50  0001 C CNN
+	1    7500 4050
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D D?
+U 1 1 60E5CF5B
+P 7500 4200
+AR Path="/60E5CF5B" Ref="D?"  Part="1" 
+AR Path="/60E14924/60E5CF5B" Ref="D5:4"  Part="1" 
+F 0 "D5:4" H 7500 4100 50  0000 C CNN
+F 1 "D" H 7650 4100 50  0001 C CNN
+F 2 "" H 7500 4200 50  0001 C CNN
+F 3 "~" H 7500 4200 50  0001 C CNN
+	1    7500 4200
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D D?
+U 1 1 60E5CF61
+P 6700 5000
+AR Path="/60E5CF61" Ref="D?"  Part="1" 
+AR Path="/60E14924/60E5CF61" Ref="D6:3"  Part="1" 
+F 0 "D6:3" H 6700 4900 50  0000 C CNN
+F 1 "D" H 6850 4900 50  0001 C CNN
+F 2 "" H 6700 5000 50  0001 C CNN
+F 3 "~" H 6700 5000 50  0001 C CNN
+	1    6700 5000
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D D?
+U 1 1 60E5CF67
+P 9500 1800
+AR Path="/60E5CF67" Ref="D?"  Part="1" 
+AR Path="/60E14924/60E5CF67" Ref="D2:6"  Part="1" 
+F 0 "D2:6" H 9500 1700 50  0000 C CNN
+F 1 "D" H 9650 1700 50  0001 C CNN
+F 2 "" H 9500 1800 50  0001 C CNN
+F 3 "~" H 9500 1800 50  0001 C CNN
+	1    9500 1800
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW1:?
+U 1 1 60E5CF6D
+P 9500 1650
+AR Path="/60E5CF6D" Ref="SW1:?"  Part="1" 
+AR Path="/60E14924/60E5CF6D" Ref="SW2:6"  Part="1" 
+F 0 "SW2:6" H 9350 1800 50  0000 C CNN
+F 1 "Key_F5" H 9650 1800 50  0000 C CNN
+F 2 "" H 9500 1850 50  0001 C CNN
+F 3 "~" H 9500 1850 50  0001 C CNN
+	1    9500 1650
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D D?
+U 1 1 60E5CF73
+P 10300 1000
+AR Path="/60E5CF73" Ref="D?"  Part="1" 
+AR Path="/60E14924/60E5CF73" Ref="D1:7"  Part="1" 
+F 0 "D1:7" H 10300 900 50  0000 C CNN
+F 1 "D" H 10450 900 50  0001 C CNN
+F 2 "" H 10300 1000 50  0001 C CNN
+F 3 "~" H 10300 1000 50  0001 C CNN
+	1    10300 1000
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D D?
+U 1 1 60E5CF79
+P 10300 1800
+AR Path="/60E5CF79" Ref="D?"  Part="1" 
+AR Path="/60E14924/60E5CF79" Ref="D2:7"  Part="1" 
+F 0 "D2:7" H 10300 1700 50  0000 C CNN
+F 1 "D" H 10450 1700 50  0001 C CNN
+F 2 "" H 10300 1800 50  0001 C CNN
+F 3 "~" H 10300 1800 50  0001 C CNN
+	1    10300 1800
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW1:?
+U 1 1 60E5CF7F
+P 10300 1650
+AR Path="/60E5CF7F" Ref="SW1:?"  Part="1" 
+AR Path="/60E14924/60E5CF7F" Ref="SW2:7"  Part="1" 
+F 0 "SW2:7" H 10150 1800 50  0000 C CNN
+F 1 "Key_F6" H 10450 1800 50  0000 C CNN
+F 2 "" H 10300 1850 50  0001 C CNN
+F 3 "~" H 10300 1850 50  0001 C CNN
+	1    10300 1650
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D D?
+U 1 1 60E5CF85
+P 9500 1000
+AR Path="/60E5CF85" Ref="D?"  Part="1" 
+AR Path="/60E14924/60E5CF85" Ref="D1:6"  Part="1" 
+F 0 "D1:6" H 9500 900 50  0000 C CNN
+F 1 "D" H 9650 900 50  0001 C CNN
+F 2 "" H 9500 1000 50  0001 C CNN
+F 3 "~" H 9500 1000 50  0001 C CNN
+	1    9500 1000
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D D?
+U 1 1 60E5CF8B
+P 5100 3400
+AR Path="/60E5CF8B" Ref="D?"  Part="1" 
+AR Path="/60E14924/60E5CF8B" Ref="D4:2"  Part="1" 
+F 0 "D4:2" H 5100 3300 50  0000 C CNN
+F 1 "D" H 5250 3300 50  0001 C CNN
+F 2 "" H 5100 3400 50  0001 C CNN
+F 3 "~" H 5100 3400 50  0001 C CNN
+	1    5100 3400
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D D?
+U 1 1 60E5CF91
+P 5500 2600
+AR Path="/60E5CF91" Ref="D?"  Part="1" 
+AR Path="/60E14924/60E5CF91" Ref="D3:2"  Part="1" 
+F 0 "D3:2" H 5500 2500 50  0000 C CNN
+F 1 "D" H 5650 2500 50  0001 C CNN
+F 2 "" H 5500 2600 50  0001 C CNN
+F 3 "~" H 5500 2600 50  0001 C CNN
+	1    5500 2600
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW5:?
+U 1 1 60E5CF97
+P 5500 2450
+AR Path="/60E5CF97" Ref="SW5:?"  Part="1" 
+AR Path="/60E14924/60E5CF97" Ref="SW3:2"  Part="1" 
+F 0 "SW3:2" H 5350 2600 50  0000 C CNN
+F 1 "Key_End" H 5650 2600 50  0000 C CNN
+F 2 "" H 5500 2650 50  0001 C CNN
+F 3 "~" H 5500 2650 50  0001 C CNN
+	1    5500 2450
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D D?
+U 1 1 60E5CF9D
+P 5100 4200
+AR Path="/60E5CF9D" Ref="D?"  Part="1" 
+AR Path="/60E14924/60E5CF9D" Ref="D5:2"  Part="1" 
+F 0 "D5:2" H 5100 4100 50  0000 C CNN
+F 1 "D" H 5250 4100 50  0001 C CNN
+F 2 "" H 5100 4200 50  0001 C CNN
+F 3 "~" H 5100 4200 50  0001 C CNN
+	1    5100 4200
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D D?
+U 1 1 60E5CFA3
+P 4700 2600
+AR Path="/60E5CFA3" Ref="D?"  Part="1" 
+AR Path="/60E14924/60E5CFA3" Ref="D3:1"  Part="1" 
+F 0 "D3:1" H 4700 2500 50  0000 C CNN
+F 1 "D" H 4850 2500 50  0001 C CNN
+F 2 "" H 4700 2600 50  0001 C CNN
+F 3 "~" H 4700 2600 50  0001 C CNN
+	1    4700 2600
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW4:?
+U 1 1 60E5CFA9
+P 4700 2450
+AR Path="/60E5CFA9" Ref="SW4:?"  Part="1" 
+AR Path="/60E14924/60E5CFA9" Ref="SW3:1"  Part="1" 
+F 0 "SW3:1" H 4550 2600 50  0000 C CNN
+F 1 "Key_Home" H 4850 2600 50  0000 C CNN
+F 2 "" H 4700 2650 50  0001 C CNN
+F 3 "~" H 4700 2650 50  0001 C CNN
+	1    4700 2450
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW1:?
+U 1 1 60E5CFAF
+P 7500 1650
+AR Path="/60E5CFAF" Ref="SW1:?"  Part="1" 
+AR Path="/60E14924/60E5CFAF" Ref="SW2:4"  Part="1" 
+F 0 "SW2:4" H 7350 1800 50  0000 C CNN
+F 1 "Key_F3" H 7650 1800 50  0000 C CNN
+F 2 "" H 7500 1850 50  0001 C CNN
+F 3 "~" H 7500 1850 50  0001 C CNN
+	1    7500 1650
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D D?
+U 1 1 60E5CFB5
+P 7500 1800
+AR Path="/60E5CFB5" Ref="D?"  Part="1" 
+AR Path="/60E14924/60E5CFB5" Ref="D2:4"  Part="1" 
+F 0 "D2:4" H 7500 1700 50  0000 C CNN
+F 1 "D" H 7650 1700 50  0001 C CNN
+F 2 "" H 7500 1800 50  0001 C CNN
+F 3 "~" H 7500 1800 50  0001 C CNN
+	1    7500 1800
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW1:?
+U 1 1 60E5CFBB
+P 8300 1650
+AR Path="/60E5CFBB" Ref="SW1:?"  Part="1" 
+AR Path="/60E14924/60E5CFBB" Ref="SW2:5"  Part="1" 
+F 0 "SW2:5" H 8150 1800 50  0000 C CNN
+F 1 "Key_F4" H 8450 1800 50  0000 C CNN
+F 2 "" H 8300 1850 50  0001 C CNN
+F 3 "~" H 8300 1850 50  0001 C CNN
+	1    8300 1650
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D D?
+U 1 1 60E5CFC1
+P 8300 1800
+AR Path="/60E5CFC1" Ref="D?"  Part="1" 
+AR Path="/60E14924/60E5CFC1" Ref="D2:5"  Part="1" 
+F 0 "D2:5" H 8300 1700 50  0000 C CNN
+F 1 "D" H 8450 1700 50  0001 C CNN
+F 2 "" H 8300 1800 50  0001 C CNN
+F 3 "~" H 8300 1800 50  0001 C CNN
+	1    8300 1800
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW2:?
+U 1 1 60E5CFC7
+P 5900 1650
+AR Path="/60E5CFC7" Ref="SW2:?"  Part="1" 
+AR Path="/60E14924/60E5CFC7" Ref="SW2:2"  Part="1" 
+F 0 "SW2:2" H 5750 1800 50  0000 C CNN
+F 1 "Key_F1" H 6050 1800 50  0000 C CNN
+F 2 "" H 5900 1850 50  0001 C CNN
+F 3 "~" H 5900 1850 50  0001 C CNN
+	1    5900 1650
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D D?
+U 1 1 60E5CFCD
+P 5900 1800
+AR Path="/60E5CFCD" Ref="D?"  Part="1" 
+AR Path="/60E14924/60E5CFCD" Ref="D2:2"  Part="1" 
+F 0 "D2:2" H 5900 1700 50  0000 C CNN
+F 1 "D" H 6050 1700 50  0001 C CNN
+F 2 "" H 5900 1800 50  0001 C CNN
+F 3 "~" H 5900 1800 50  0001 C CNN
+	1    5900 1800
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW1:?
+U 1 1 60E5CFD3
+P 6700 1650
+AR Path="/60E5CFD3" Ref="SW1:?"  Part="1" 
+AR Path="/60E14924/60E5CFD3" Ref="SW2:3"  Part="1" 
+F 0 "SW2:3" H 6550 1800 50  0000 C CNN
+F 1 "Key_F2" H 6850 1800 50  0000 C CNN
+F 2 "" H 6700 1850 50  0001 C CNN
+F 3 "~" H 6700 1850 50  0001 C CNN
+	1    6700 1650
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D D?
+U 1 1 60E5CFD9
+P 6700 1800
+AR Path="/60E5CFD9" Ref="D?"  Part="1" 
+AR Path="/60E14924/60E5CFD9" Ref="D2:3"  Part="1" 
+F 0 "D2:3" H 6700 1700 50  0000 C CNN
+F 1 "D" H 6850 1700 50  0001 C CNN
+F 2 "" H 6700 1800 50  0001 C CNN
+F 3 "~" H 6700 1800 50  0001 C CNN
+	1    6700 1800
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW6:?
+U 1 1 60E5CFDF
+P 10700 5650
+AR Path="/60E5CFDF" Ref="SW6:?"  Part="1" 
+AR Path="/60E14924/60E5CFDF" Ref="SW7:8"  Part="1" 
+F 0 "SW7:8" H 10550 5800 50  0000 C CNN
+F 1 "Key_LSpc" H 10850 5800 50  0000 C CNN
+F 2 "" H 10700 5850 50  0001 C CNN
+F 3 "~" H 10700 5850 50  0001 C CNN
+	1    10700 5650
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D D?
+U 1 1 60E5CFE5
+P 10700 5800
+AR Path="/60E5CFE5" Ref="D?"  Part="1" 
+AR Path="/60E14924/60E5CFE5" Ref="D7:8"  Part="1" 
+F 0 "D7:8" H 10700 5700 50  0000 C CNN
+F 1 "D" H 10850 5700 50  0001 C CNN
+F 2 "" H 10700 5800 50  0001 C CNN
+F 3 "~" H 10700 5800 50  0001 C CNN
+	1    10700 5800
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW6:?
+U 1 1 60E5CFEB
+P 9100 5650
+AR Path="/60E5CFEB" Ref="SW6:?"  Part="1" 
+AR Path="/60E14924/60E5CFEB" Ref="SW7:6"  Part="1" 
+F 0 "SW7:6" H 8950 5800 50  0000 C CNN
+F 1 "Key_LAlt" H 9250 5800 50  0000 C CNN
+F 2 "" H 9100 5850 50  0001 C CNN
+F 3 "~" H 9100 5850 50  0001 C CNN
+	1    9100 5650
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D D?
+U 1 1 60E5CFF1
+P 9100 5800
+AR Path="/60E5CFF1" Ref="D?"  Part="1" 
+AR Path="/60E14924/60E5CFF1" Ref="D7:6"  Part="1" 
+F 0 "D7:6" H 9100 5700 50  0000 C CNN
+F 1 "D" H 9250 5700 50  0001 C CNN
+F 2 "" H 9100 5800 50  0001 C CNN
+F 3 "~" H 9100 5800 50  0001 C CNN
+	1    9100 5800
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D D?
+U 1 1 60E5CFFD
+P 8300 5800
+AR Path="/60E5CFFD" Ref="D?"  Part="1" 
+AR Path="/60E14924/60E5CFFD" Ref="D7:5"  Part="1" 
+F 0 "D7:5" H 8300 5700 50  0000 C CNN
+F 1 "D" H 8450 5700 50  0001 C CNN
+F 2 "" H 8300 5800 50  0001 C CNN
+F 3 "~" H 8300 5800 50  0001 C CNN
+	1    8300 5800
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW6:?
+U 1 1 60E5D003
+P 7500 5650
+AR Path="/60E5D003" Ref="SW6:?"  Part="1" 
+AR Path="/60E14924/60E5D003" Ref="SW7:4"  Part="1" 
+F 0 "SW7:4" H 7350 5800 50  0000 C CNN
+F 1 "Key_Fn" H 7650 5800 50  0000 C CNN
+F 2 "" H 7500 5850 50  0001 C CNN
+F 3 "~" H 7500 5850 50  0001 C CNN
+	1    7500 5650
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D D?
+U 1 1 60E5D009
+P 7500 5800
+AR Path="/60E5D009" Ref="D?"  Part="1" 
+AR Path="/60E14924/60E5D009" Ref="D7:4"  Part="1" 
+F 0 "D7:4" H 7500 5700 50  0000 C CNN
+F 1 "D" H 7650 5700 50  0001 C CNN
+F 2 "" H 7500 5800 50  0001 C CNN
+F 3 "~" H 7500 5800 50  0001 C CNN
+	1    7500 5800
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW6:?
+U 1 1 60E5D00F
+P 6700 5650
+AR Path="/60E5D00F" Ref="SW6:?"  Part="1" 
+AR Path="/60E14924/60E5D00F" Ref="SW7:3"  Part="1" 
+F 0 "SW7:3" H 6550 5800 50  0000 C CNN
+F 1 "Key_LCtrl" H 6850 5800 50  0000 C CNN
+F 2 "" H 6700 5850 50  0001 C CNN
+F 3 "~" H 6700 5850 50  0001 C CNN
+	1    6700 5650
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D D?
+U 1 1 60E5D015
+P 6700 5800
+AR Path="/60E5D015" Ref="D?"  Part="1" 
+AR Path="/60E14924/60E5D015" Ref="D7:3"  Part="1" 
+F 0 "D7:3" H 6700 5700 50  0000 C CNN
+F 1 "D" H 6850 5700 50  0001 C CNN
+F 2 "" H 6700 5800 50  0001 C CNN
+F 3 "~" H 6700 5800 50  0001 C CNN
+	1    6700 5800
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	4900 2450 4900 2600
+Wire Wire Line
+	4900 2600 4850 2600
+Wire Wire Line
+	5700 2450 5700 2600
+Wire Wire Line
+	5700 2600 5650 2600
+Wire Wire Line
+	5300 3250 5300 3400
+Wire Wire Line
+	5300 3400 5250 3400
+Wire Wire Line
+	5300 4050 5300 4200
+Wire Wire Line
+	5300 4200 5250 4200
+Wire Wire Line
+	6100 1650 6100 1800
+Wire Wire Line
+	6100 1800 6050 1800
+Wire Wire Line
+	6900 1650 6900 1800
+Wire Wire Line
+	6900 1800 6850 1800
+Wire Wire Line
+	7700 1650 7700 1800
+Wire Wire Line
+	7700 1800 7650 1800
+Wire Wire Line
+	8500 1650 8500 1800
+Wire Wire Line
+	8500 1800 8450 1800
+Wire Wire Line
+	9700 850  9700 1000
+Wire Wire Line
+	9700 1000 9650 1000
+Wire Wire Line
+	10500 850  10500 1000
+Wire Wire Line
+	10500 1000 10450 1000
+Wire Wire Line
+	9700 1650 9700 1800
+Wire Wire Line
+	9700 1800 9650 1800
+Wire Wire Line
+	10500 1650 10500 1800
+Wire Wire Line
+	10500 1800 10450 1800
+Wire Wire Line
+	6900 2450 6900 2600
+Wire Wire Line
+	6900 2600 6850 2600
+Wire Wire Line
+	7700 2450 7700 2600
+Wire Wire Line
+	7700 2600 7650 2600
+Wire Wire Line
+	8500 2450 8500 2600
+Wire Wire Line
+	8500 2600 8450 2600
+Wire Wire Line
+	9300 2450 9300 2600
+Wire Wire Line
+	9300 2600 9250 2600
+Wire Wire Line
+	10100 2450 10100 2600
+Wire Wire Line
+	10100 2600 10050 2600
+Wire Wire Line
+	10900 2450 10900 2600
+Wire Wire Line
+	10900 2600 10850 2600
+Wire Wire Line
+	6900 3250 6900 3400
+Wire Wire Line
+	6900 3400 6850 3400
+Wire Wire Line
+	7700 3250 7700 3400
+Wire Wire Line
+	7700 3400 7650 3400
+Wire Wire Line
+	8500 3250 8500 3400
+Wire Wire Line
+	8500 3400 8450 3400
+Wire Wire Line
+	9300 3250 9300 3400
+Wire Wire Line
+	9300 3400 9250 3400
+Wire Wire Line
+	10100 3250 10100 3400
+Wire Wire Line
+	10100 3400 10050 3400
+Wire Wire Line
+	10900 3250 10900 3400
+Wire Wire Line
+	10900 3400 10850 3400
+Wire Wire Line
+	6900 4050 6900 4200
+Wire Wire Line
+	6900 4200 6850 4200
+Wire Wire Line
+	7700 4050 7700 4200
+Wire Wire Line
+	7700 4200 7650 4200
+Wire Wire Line
+	8500 4050 8500 4200
+Wire Wire Line
+	8500 4200 8450 4200
+Wire Wire Line
+	9300 4050 9300 4200
+Wire Wire Line
+	9300 4200 9250 4200
+Wire Wire Line
+	10100 4050 10100 4200
+Wire Wire Line
+	10100 4200 10050 4200
+Wire Wire Line
+	10900 4050 10900 4200
+Wire Wire Line
+	10900 4200 10850 4200
+Wire Wire Line
+	10900 4850 10900 5000
+Wire Wire Line
+	10900 5000 10850 5000
+Wire Wire Line
+	10100 4850 10100 5000
+Wire Wire Line
+	10100 5000 10050 5000
+Wire Wire Line
+	9300 4850 9300 5000
+Wire Wire Line
+	9300 5000 9250 5000
+Wire Wire Line
+	8500 4850 8500 5000
+Wire Wire Line
+	8500 5000 8450 5000
+Wire Wire Line
+	7700 4850 7700 5000
+Wire Wire Line
+	7700 5000 7650 5000
+Wire Wire Line
+	6900 4850 6900 5000
+Wire Wire Line
+	6900 5000 6850 5000
+Wire Wire Line
+	6900 5650 6900 5800
+Wire Wire Line
+	6900 5800 6850 5800
+Wire Wire Line
+	7700 5650 7700 5800
+Wire Wire Line
+	7700 5800 7650 5800
+Wire Wire Line
+	8500 5650 8500 5800
+Wire Wire Line
+	8500 5800 8450 5800
+Wire Wire Line
+	9300 5650 9300 5800
+Wire Wire Line
+	9300 5800 9250 5800
+Wire Wire Line
+	10900 5650 10900 5800
+Wire Wire Line
+	10900 5800 10850 5800
+$Comp
+L Switch:SW_Push SW6:?
+U 1 1 60E5D08E
+P 5100 3250
+AR Path="/60E5D08E" Ref="SW6:?"  Part="1" 
+AR Path="/60E14924/60E5D08E" Ref="SW4:2"  Part="1" 
+F 0 "SW4:2" H 4950 3400 50  0000 C CNN
+F 1 "Key_PgUp" H 5250 3400 50  0000 C CNN
+F 2 "" H 5100 3450 50  0001 C CNN
+F 3 "~" H 5100 3450 50  0001 C CNN
+	1    5100 3250
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW6:?
+U 1 1 60E5D094
+P 5100 4050
+AR Path="/60E5D094" Ref="SW6:?"  Part="1" 
+AR Path="/60E14924/60E5D094" Ref="SW5:2"  Part="1" 
+F 0 "SW5:2" H 4950 4200 50  0000 C CNN
+F 1 "Key_PgDn" H 5250 4200 50  0000 C CNN
+F 2 "" H 5100 4250 50  0001 C CNN
+F 3 "~" H 5100 4250 50  0001 C CNN
+	1    5100 4050
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	4400 2450 4500 2450
+Wire Wire Line
+	4800 3250 4900 3250
+Wire Wire Line
+	4800 3800 4800 4050
+Wire Wire Line
+	4800 4050 4900 4050
+Wire Wire Line
+	6400 2200 6400 2450
+Wire Wire Line
+	6400 3000 6400 3250
+Wire Wire Line
+	6400 3800 6400 4050
+Wire Wire Line
+	6400 4600 6400 4850
+Wire Wire Line
+	6400 4850 6500 4850
+Wire Wire Line
+	6400 4050 6500 4050
+Wire Wire Line
+	6400 3800 7200 3800
+Wire Wire Line
+	6400 3250 6500 3250
+Wire Wire Line
+	6400 2450 6500 2450
+Wire Wire Line
+	6300 5000 6300 4200
+Connection ~ 6300 5000
+Wire Wire Line
+	6300 5000 6550 5000
+Wire Wire Line
+	6300 4200 6300 3400
+Connection ~ 6300 4200
+Wire Wire Line
+	6300 4200 6550 4200
+Wire Wire Line
+	6300 3400 6300 2600
+Connection ~ 6300 3400
+Wire Wire Line
+	6300 3400 6550 3400
+Connection ~ 6300 2600
+Wire Wire Line
+	6300 2600 6550 2600
+Wire Wire Line
+	7200 2200 7200 2450
+Connection ~ 7200 2200
+Wire Wire Line
+	7200 2450 7300 2450
+Wire Wire Line
+	7200 2200 8000 2200
+Wire Wire Line
+	7200 3000 7200 3250
+Connection ~ 7200 3000
+Wire Wire Line
+	7200 3250 7300 3250
+Wire Wire Line
+	7200 3000 8000 3000
+Wire Wire Line
+	7200 3800 7200 4050
+Connection ~ 7200 3800
+Wire Wire Line
+	7200 4050 7300 4050
+Wire Wire Line
+	7200 3800 8000 3800
+Wire Wire Line
+	7200 4600 7200 4850
+Connection ~ 7200 4600
+Wire Wire Line
+	7200 4850 7300 4850
+Wire Wire Line
+	7200 4600 8000 4600
+Wire Wire Line
+	6400 5400 6400 5650
+Wire Wire Line
+	6400 5650 6500 5650
+Wire Wire Line
+	7100 6100 7100 5800
+Wire Wire Line
+	7100 5800 7100 5000
+Connection ~ 7100 5800
+Wire Wire Line
+	6300 5800 6550 5800
+Wire Wire Line
+	7100 5000 7100 4200
+Connection ~ 7100 5000
+Wire Wire Line
+	7100 5000 7350 5000
+Wire Wire Line
+	7100 3400 7100 2600
+Connection ~ 7100 2600
+Wire Wire Line
+	7100 2600 7350 2600
+Wire Wire Line
+	7100 3400 7100 4200
+Connection ~ 7100 3400
+Connection ~ 7100 4200
+Wire Wire Line
+	7100 4200 7350 4200
+Wire Wire Line
+	7100 3400 7350 3400
+Wire Wire Line
+	7100 5800 7350 5800
+Wire Wire Line
+	7900 5000 8150 5000
+Wire Wire Line
+	7900 3400 8150 3400
+Wire Wire Line
+	7900 3400 7900 4200
+Connection ~ 7900 5000
+Wire Wire Line
+	7900 3400 7900 2600
+Wire Wire Line
+	7900 2600 8150 2600
+Connection ~ 7900 3400
+Wire Wire Line
+	7200 5400 7200 5650
+Connection ~ 8000 5400
+Wire Wire Line
+	8000 4600 8000 4850
+Connection ~ 8000 4600
+Wire Wire Line
+	8000 4050 8000 3800
+Connection ~ 8000 3800
+Wire Wire Line
+	8000 3250 8000 3000
+Connection ~ 8000 3000
+Wire Wire Line
+	8000 2450 8000 2200
+Connection ~ 8000 2200
+Wire Wire Line
+	8000 2450 8100 2450
+Wire Wire Line
+	8000 2200 8800 2200
+Wire Wire Line
+	8000 3250 8100 3250
+Wire Wire Line
+	8000 3000 8800 3000
+Wire Wire Line
+	8000 4050 8100 4050
+Wire Wire Line
+	8000 3800 8800 3800
+Wire Wire Line
+	8000 4850 8100 4850
+Wire Wire Line
+	8000 4600 8800 4600
+Wire Wire Line
+	7200 5650 7300 5650
+Wire Wire Line
+	6400 1400 6400 1650
+Connection ~ 6400 1400
+Wire Wire Line
+	6400 1650 6500 1650
+Wire Wire Line
+	6400 1400 7200 1400
+Wire Wire Line
+	7200 1650 7200 1400
+Connection ~ 7200 1400
+Wire Wire Line
+	7200 1650 7300 1650
+Wire Wire Line
+	7200 1400 8000 1400
+Wire Wire Line
+	8000 1650 8000 1400
+Connection ~ 8000 1400
+Wire Wire Line
+	8000 1650 8100 1650
+Wire Wire Line
+	8000 1400 9200 1400
+Wire Wire Line
+	9200 1650 9200 1400
+Wire Wire Line
+	9200 850  9300 850 
+Wire Wire Line
+	9200 1650 9300 1650
+Wire Wire Line
+	10000 850  10100 850 
+Wire Wire Line
+	10000 1650 10100 1650
+$Comp
+L Switch:SW_Push SW5:?
+U 1 1 60E5D125
+P 6700 4850
+AR Path="/60E5D125" Ref="SW5:?"  Part="1" 
+AR Path="/60E14924/60E5D125" Ref="SW6:3"  Part="1" 
+F 0 "SW6:3" H 6550 5000 50  0000 C CNN
+F 1 "Key_LShft" H 6850 5000 50  0000 C CNN
+F 2 "" H 6700 5050 50  0001 C CNN
+F 3 "~" H 6700 5050 50  0001 C CNN
+	1    6700 4850
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	7900 6100 7900 5800
+Wire Wire Line
+	7900 5800 7900 5000
+Connection ~ 7900 5800
+Wire Wire Line
+	7900 5800 8150 5800
+Wire Wire Line
+	8700 5000 8700 4200
+Connection ~ 8700 5000
+Wire Wire Line
+	8700 5000 8950 5000
+Wire Wire Line
+	8700 4200 8700 3400
+Connection ~ 8700 4200
+Wire Wire Line
+	8700 4200 8950 4200
+Wire Wire Line
+	8700 3400 8700 2600
+Connection ~ 8700 3400
+Wire Wire Line
+	8700 3400 8950 3400
+Connection ~ 8700 2600
+Wire Wire Line
+	8700 2600 8950 2600
+Wire Wire Line
+	8000 5400 8800 5400
+Wire Wire Line
+	8000 5400 8000 5650
+Connection ~ 8800 5400
+Wire Wire Line
+	8000 5650 8100 5650
+Wire Wire Line
+	8800 4600 8800 4850
+Connection ~ 8800 4600
+Wire Wire Line
+	8800 4850 8900 4850
+Wire Wire Line
+	8800 4600 9600 4600
+Wire Wire Line
+	8800 3800 8800 4050
+Connection ~ 8800 3800
+Wire Wire Line
+	8800 4050 8900 4050
+Wire Wire Line
+	8800 3000 8800 3250
+Connection ~ 8800 3000
+Wire Wire Line
+	8800 3250 8900 3250
+Wire Wire Line
+	8800 2200 8800 2450
+Connection ~ 8800 2200
+Wire Wire Line
+	8800 2450 8900 2450
+Wire Wire Line
+	8700 6100 8700 5800
+Wire Wire Line
+	8700 5800 8700 5000
+Connection ~ 8700 5800
+Wire Wire Line
+	8700 5800 8950 5800
+Wire Wire Line
+	9500 5000 9500 4200
+Wire Wire Line
+	9500 5000 9750 5000
+Wire Wire Line
+	9500 4200 9500 3400
+Connection ~ 9500 4200
+Wire Wire Line
+	9500 4200 9750 4200
+Wire Wire Line
+	9500 3400 9500 2600
+Connection ~ 9500 3400
+Wire Wire Line
+	9500 3400 9750 3400
+Connection ~ 9500 2600
+Wire Wire Line
+	9500 2600 9750 2600
+Wire Wire Line
+	8800 5650 8800 5400
+Wire Wire Line
+	8800 5650 8900 5650
+Wire Wire Line
+	9600 4850 9600 4600
+Connection ~ 9600 4600
+Wire Wire Line
+	9600 4850 9700 4850
+Wire Wire Line
+	9600 4600 10400 4600
+Wire Wire Line
+	8800 3800 9600 3800
+Wire Wire Line
+	8800 3000 9600 3000
+Wire Wire Line
+	8800 2200 9600 2200
+Wire Wire Line
+	9600 4050 9600 3800
+Wire Wire Line
+	9600 4050 9700 4050
+Connection ~ 9600 3800
+Wire Wire Line
+	9600 3800 10400 3800
+Wire Wire Line
+	9600 3250 9600 3000
+Wire Wire Line
+	9600 3250 9700 3250
+Connection ~ 9600 3000
+Wire Wire Line
+	9600 3000 10400 3000
+Wire Wire Line
+	9600 2450 9600 2200
+Wire Wire Line
+	9600 2450 9700 2450
+Connection ~ 9600 2200
+Wire Wire Line
+	9600 2200 10400 2200
+Wire Wire Line
+	10300 2600 10300 3400
+Connection ~ 10300 3400
+Wire Wire Line
+	10300 3400 10300 4200
+Connection ~ 10300 4200
+Wire Wire Line
+	10300 4200 10300 5000
+Connection ~ 10300 5000
+Wire Wire Line
+	10300 5000 10550 5000
+Wire Wire Line
+	10300 4200 10550 4200
+Wire Wire Line
+	10300 3400 10550 3400
+Wire Wire Line
+	10300 2600 10550 2600
+Wire Wire Line
+	10400 5650 10400 5400
+Wire Wire Line
+	10400 4850 10400 4600
+Wire Wire Line
+	10400 4050 10400 3800
+Wire Wire Line
+	10400 3250 10400 3000
+Wire Wire Line
+	10400 2450 10400 2200
+Wire Wire Line
+	10400 2450 10500 2450
+Wire Wire Line
+	10400 3250 10500 3250
+Wire Wire Line
+	10400 4050 10500 4050
+Wire Wire Line
+	10400 4850 10500 4850
+Wire Wire Line
+	10400 5650 10500 5650
+$Comp
+L Switch:SW_Push SW1:?
+U 1 1 60E5D1A1
+P 10300 850
+AR Path="/60E5D1A1" Ref="SW1:?"  Part="1" 
+AR Path="/60E14924/60E5D1A1" Ref="SW1:7"  Part="1" 
+F 0 "SW1:7" H 10150 1000 50  0000 C CNN
+F 1 "Key_Paus" H 10450 1000 50  0000 C CNN
+F 2 "" H 10300 1050 50  0001 C CNN
+F 3 "~" H 10300 1050 50  0001 C CNN
+	1    10300 850 
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	4900 1800 4850 1800
+$Comp
+L Device:D D?
+U 1 1 60E5D1C6
+P 4700 1800
+AR Path="/60E5D1C6" Ref="D?"  Part="1" 
+AR Path="/60E14924/60E5D1C6" Ref="D2:1"  Part="1" 
+F 0 "D2:1" H 4700 1700 50  0000 C CNN
+F 1 "D" H 4850 1700 50  0001 C CNN
+F 2 "" H 4700 1800 50  0001 C CNN
+F 3 "~" H 4700 1800 50  0001 C CNN
+	1    4700 1800
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	4900 1650 4900 1800
+Wire Wire Line
+	4500 1650 4450 1650
+$Comp
+L Switch:SW_Push SW3:?
+U 1 1 60E5D1CE
+P 4700 1650
+AR Path="/60E5D1CE" Ref="SW3:?"  Part="1" 
+AR Path="/60E14924/60E5D1CE" Ref="SW2:1"  Part="1" 
+F 0 "SW2:1" H 4550 1800 50  0000 C CNN
+F 1 "Key_ESC" H 4850 1800 50  0000 C CNN
+F 2 "" H 4700 1850 50  0001 C CNN
+F 3 "~" H 4700 1850 50  0001 C CNN
+	1    4700 1650
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	7900 4200 8150 4200
+Connection ~ 7900 4200
+Wire Wire Line
+	7900 4200 7900 5000
+Connection ~ 7200 5400
+Wire Wire Line
+	7200 5400 8000 5400
+Wire Wire Line
+	6000 4600 6400 4600
+Connection ~ 6400 4600
+Wire Wire Line
+	6400 4600 7200 4600
+Wire Wire Line
+	6400 3800 4800 3800
+Connection ~ 6400 3800
+Connection ~ 4800 3800
+Wire Wire Line
+	4800 3800 4000 3800
+Wire Wire Line
+	4000 3000 4800 3000
+Connection ~ 6400 3000
+Wire Wire Line
+	6400 3000 7200 3000
+Wire Wire Line
+	4000 2200 4400 2200
+Connection ~ 6400 2200
+Wire Wire Line
+	6400 2200 7200 2200
+Wire Wire Line
+	9200 1400 10000 1400
+Wire Wire Line
+	10000 1400 10000 1650
+Connection ~ 9200 1400
+Wire Wire Line
+	10000 600  10000 850 
+Wire Wire Line
+	8900 600  9200 600 
+Wire Wire Line
+	9200 850  9200 600 
+Connection ~ 9200 600 
+Wire Wire Line
+	9200 600  10000 600 
+Wire Wire Line
+	7900 2600 7900 1800
+Wire Wire Line
+	7900 1800 8150 1800
+Connection ~ 7900 2600
+Wire Wire Line
+	6300 1800 6300 2600
+Wire Wire Line
+	6300 1800 6550 1800
+Wire Wire Line
+	7100 1800 7350 1800
+Wire Wire Line
+	7100 1800 7100 2600
+Wire Wire Line
+	8700 1800 8700 2600
+Wire Wire Line
+	9500 2050 9500 2600
+Wire Wire Line
+	9900 2050 9900 1800
+Wire Wire Line
+	9900 1000 10150 1000
+Wire Wire Line
+	9900 2050 9500 2050
+Wire Wire Line
+	10150 1800 9900 1800
+Connection ~ 9900 1800
+Wire Wire Line
+	9900 1800 9900 1000
+Wire Wire Line
+	4450 1650 4450 1400
+Wire Wire Line
+	4450 1400 5600 1400
+Wire Wire Line
+	4400 2450 4400 2200
+Connection ~ 4400 2200
+Wire Wire Line
+	4400 2200 5250 2200
+Wire Wire Line
+	4800 3000 4800 3250
+Connection ~ 4800 3000
+Wire Wire Line
+	4800 3000 6400 3000
+Wire Wire Line
+	9100 1800 9100 1000
+Connection ~ 9100 1800
+Wire Wire Line
+	9100 1800 8700 1800
+Wire Wire Line
+	9100 1000 9350 1000
+Wire Wire Line
+	9100 1800 9350 1800
+Wire Wire Line
+	4950 4200 4700 4200
+Wire Wire Line
+	4700 4200 4700 3400
+Wire Wire Line
+	4700 3400 4950 3400
+Wire Wire Line
+	4550 1800 4300 1800
+Wire Wire Line
+	4300 1800 4300 2600
+Wire Wire Line
+	4300 2600 4550 2600
+Wire Wire Line
+	5300 2450 5250 2450
+Wire Wire Line
+	4700 3400 4700 2800
+Wire Wire Line
+	4700 2800 5150 2800
+Wire Wire Line
+	5350 2800 5350 2600
+Connection ~ 4700 3400
+Wire Wire Line
+	5250 2450 5250 2200
+Connection ~ 5250 2200
+Wire Wire Line
+	5250 2200 6400 2200
+Wire Wire Line
+	5600 1650 5600 1400
+Wire Wire Line
+	5600 1650 5700 1650
+Connection ~ 5600 1400
+Wire Wire Line
+	5600 1400 6400 1400
+Wire Wire Line
+	5150 2800 5150 1800
+Wire Wire Line
+	5150 1800 5750 1800
+Connection ~ 5150 2800
+Wire Wire Line
+	5150 2800 5350 2800
+Wire Wire Line
+	4000 1400 4450 1400
+Connection ~ 4450 1400
+Text Label 8900 600  0    50   ~ 0
+ROW1
+Text Label 4000 1400 0    50   ~ 0
+ROW2
+Text Label 4000 2200 0    50   ~ 0
+ROW3
+Text Label 4000 3000 0    50   ~ 0
+ROW4
+Text Label 4000 3800 0    50   ~ 0
+ROW5
+Text Label 6000 4600 0    50   ~ 0
+ROW6
+Text Label 6000 5400 0    50   ~ 0
+ROW7
+Wire Wire Line
+	4700 4200 4700 4500
+Connection ~ 4700 4200
+Text Label 4300 4500 1    50   ~ 0
+COL1
+Text Label 4700 4500 1    50   ~ 0
+COL2
+Text Label 6300 6100 1    50   ~ 0
+COL3
+Text Label 7100 6100 1    50   ~ 0
+COL4
+Text Label 7900 6100 1    50   ~ 0
+COL5
+Text Label 8700 6100 1    50   ~ 0
+COL6
+Text Label 9500 6100 1    50   ~ 0
+COL7
+Wire Wire Line
+	10300 5000 10300 5800
+Wire Wire Line
+	10550 5800 10300 5800
+Connection ~ 10300 5800
+Wire Wire Line
+	10300 5800 10300 6150
+$Comp
+L Switch:SW_Push SW1:?
+U 1 1 60E5D19B
+P 9500 850
+AR Path="/60E5D19B" Ref="SW1:?"  Part="1" 
+AR Path="/60E14924/60E5D19B" Ref="SW1:6"  Part="1" 
+F 0 "SW1:6" H 9350 1000 50  0000 C CNN
+F 1 "Key_Scrl" H 9650 1000 50  0000 C CNN
+F 2 "" H 9500 1050 50  0001 C CNN
+F 3 "~" H 9500 1050 50  0001 C CNN
+	1    9500 850 
+	1    0    0    -1  
+$EndComp
+Connection ~ 4300 2600
+Wire Wire Line
+	4300 2600 4300 4500
+Wire Wire Line
+	8800 5400 10400 5400
+Wire Wire Line
+	6000 5400 6400 5400
+Connection ~ 6400 5400
+Wire Wire Line
+	6400 5400 7200 5400
+Wire Wire Line
+	6300 5000 6300 5800
+Connection ~ 6300 5800
+Wire Wire Line
+	6300 5800 6300 6100
+Wire Wire Line
+	9500 5000 9500 6100
+Connection ~ 9500 5000
+Text Label 10300 6150 1    50   ~ 0
+COL8
+$Comp
+L Switch:SW_Push SW6:?
+U 1 1 60E5CFF7
+P 8300 5650
+AR Path="/60E5CFF7" Ref="SW6:?"  Part="1" 
+AR Path="/60E14924/60E5CFF7" Ref="SW7:5"  Part="1" 
+F 0 "SW7:5" H 8150 5800 50  0000 C CNN
+F 1 "Key_LWin" H 8450 5800 50  0000 C CNN
+F 2 "" H 8300 5850 50  0001 C CNN
+F 3 "~" H 8300 5850 50  0001 C CNN
+	1    8300 5650
+	1    0    0    -1  
+$EndComp
+$Comp
+L ergodox:TEENSY2.0 U?
+U 1 1 5F16798B
+P 2400 2700
+F 0 "U?" H 2050 4150 60  0000 C CNN
+F 1 "TEENSY2.0" H 2550 1250 60  0000 C CNN
+F 2 "" H 2400 2700 50  0001 C CNN
+F 3 "" H 2400 2700 50  0001 C CNN
+	1    2400 2700
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW?
+U 1 1 5F171495
+P 1200 1600
+F 0 "SW?" V 1246 1552 50  0000 R CNN
+F 1 "RESET" V 1155 1552 50  0000 R CNN
+F 2 "" H 1200 1800 50  0001 C CNN
+F 3 "~" H 1200 1800 50  0001 C CNN
+	1    1200 1600
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	1800 1400 1200 1400
+$Comp
+L ergodox:GND #PWR?
+U 1 1 5F18D99F
+P 1200 1850
+F 0 "#PWR?" H 1200 1850 30  0001 C CNN
+F 1 "GND" H 1200 1780 30  0001 C CNN
+F 2 "" H 1200 1850 50  0001 C CNN
+F 3 "" H 1200 1850 50  0001 C CNN
+	1    1200 1850
+	1    0    0    -1  
+$EndComp
+NoConn ~ 1800 1500
+NoConn ~ 1800 3100
+$Comp
+L ergodox:GND #PWR?
+U 1 1 5F1C9B46
+P 1700 3800
+F 0 "#PWR?" H 1700 3800 30  0001 C CNN
+F 1 "GND" H 1700 3730 30  0001 C CNN
+F 2 "" H 1700 3800 50  0001 C CNN
+F 3 "" H 1700 3800 50  0001 C CNN
+	1    1700 3800
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	1800 3550 1700 3550
+Wire Wire Line
+	1700 3550 1700 3650
+Wire Wire Line
+	1800 3650 1700 3650
+Connection ~ 1700 3650
+Wire Wire Line
+	1700 3650 1700 3750
+$Comp
+L power:+5V #PWR?
+U 1 1 5F2198B8
+P 1700 3000
+F 0 "#PWR?" H 1700 2850 50  0001 C CNN
+F 1 "+5V" H 1715 3173 50  0000 C CNN
+F 2 "" H 1700 3000 50  0001 C CNN
+F 3 "" H 1700 3000 50  0001 C CNN
+	1    1700 3000
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	1800 3100 1700 3100
+Wire Wire Line
+	1700 3100 1700 3000
+Text Label 3000 2500 0    50   ~ 0
+SCL
+Text Label 3000 2600 0    50   ~ 0
+SDA
+Text Label 3000 2700 0    50   ~ 0
+LED_D
+Text Label 3000 1400 0    50   ~ 0
+ROW1
+Text Label 3000 1500 0    50   ~ 0
+ROW2
+Text Label 3000 1600 0    50   ~ 0
+ROW3
+Text Label 3000 1700 0    50   ~ 0
+ROW4
+Text Label 3000 2100 0    50   ~ 0
+ROW5
+Text Label 3000 2800 0    50   ~ 0
+ROW6
+Text Label 3000 3100 0    50   ~ 0
+COL1
+Text Label 3000 3200 0    50   ~ 0
+COL2
+Text Label 3000 1800 0    50   ~ 0
+COL3
+Text Label 3000 1900 0    50   ~ 0
+COL4
+Text Label 3000 2000 0    50   ~ 0
+COL5
+Text Label 3000 4000 0    50   ~ 0
+COL6
+Text Label 3000 3900 0    50   ~ 0
+COL7
+Text Label 3000 3800 0    50   ~ 0
+COL8
+$EndSCHEMATC

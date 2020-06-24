@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name dparticular)(type Legacy)(uri ${KIPRJMOD}/dparticular.lib)(options "")(descr ""))
+  (lib (name ergodox)(type Legacy)(uri ${KIPRJMOD}/component.lib)(options "")(descr ""))
+)
