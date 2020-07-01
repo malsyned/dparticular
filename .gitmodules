@@ -1,0 +1,9 @@
+[submodule "digikey-kicad-library"]
+	path = digikey-kicad-library
+	url = https://github.com/Digi-Key/digikey-kicad-library.git
+[submodule "cherry-mx-keycaps"]
+	path = cherry-mx-keycaps
+	url = https://github.com/ConstantinoSchillebeeckx/cherry-mx-keycaps.git
+[submodule "ErgoDox"]
+	path = ErgoDox
+	url = https://github.com/Ergodox-io/ErgoDox.git
