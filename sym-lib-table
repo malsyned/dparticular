@@ -1,4 +1,5 @@
 (sym_lib_table
   (lib (name dparticular)(type Legacy)(uri ${KIPRJMOD}/dparticular.lib)(options "")(descr ""))
-  (lib (name ergodox)(type Legacy)(uri ${KIPRJMOD}/component.lib)(options "")(descr ""))
+  (lib (name ergodox)(type Legacy)(uri "${KIPRJMOD}/ErgoDox/ErgoDOX pcb/component.lib")(options "")(descr ""))
+  (lib (name dk_USB-DVI-HDMI-Connectors)(type Legacy)(uri ${KIPRJMOD}/digikey-kicad-library/digikey-symbols/dk_USB-DVI-HDMI-Connectors.lib)(options "")(descr ""))
 )

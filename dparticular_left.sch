@@ -13,994 +13,6 @@ Comment2 ""
 Comment3 ""
 Comment4 ""
 $EndDescr
-$Comp
-L Switch:SW_Push SW2:?
-U 1 1 60E5CE4D
-P 9900 2450
-AR Path="/60E5CE4D" Ref="SW2:?"  Part="1" 
-AR Path="/60E14924/60E5CE4D" Ref="SW3:7"  Part="1" 
-F 0 "SW3:7" H 9750 2600 50  0000 C CNN
-F 1 "Key_4" H 10050 2600 50  0000 C CNN
-F 2 "" H 9900 2650 50  0001 C CNN
-F 3 "~" H 9900 2650 50  0001 C CNN
-	1    9900 2450
-	1    0    0    -1  
-$EndComp
-$Comp
-L Device:D D?
-U 1 1 60E5CE53
-P 9900 2600
-AR Path="/60E5CE53" Ref="D?"  Part="1" 
-AR Path="/60E14924/60E5CE53" Ref="D3:7"  Part="1" 
-F 0 "D3:7" H 9900 2500 50  0000 C CNN
-F 1 "D" H 10050 2500 50  0001 C CNN
-F 2 "" H 9900 2600 50  0001 C CNN
-F 3 "~" H 9900 2600 50  0001 C CNN
-	1    9900 2600
-	1    0    0    -1  
-$EndComp
-$Comp
-L Switch:SW_Push SW3:?
-U 1 1 60E5CE59
-P 10700 3250
-AR Path="/60E5CE59" Ref="SW3:?"  Part="1" 
-AR Path="/60E14924/60E5CE59" Ref="SW4:8"  Part="1" 
-F 0 "SW4:8" H 10550 3400 50  0000 C CNN
-F 1 "Key_T" H 10850 3400 50  0000 C CNN
-F 2 "" H 10700 3450 50  0001 C CNN
-F 3 "~" H 10700 3450 50  0001 C CNN
-	1    10700 3250
-	1    0    0    -1  
-$EndComp
-$Comp
-L Device:D D?
-U 1 1 60E5CE5F
-P 10700 3400
-AR Path="/60E5CE5F" Ref="D?"  Part="1" 
-AR Path="/60E14924/60E5CE5F" Ref="D4:8"  Part="1" 
-F 0 "D4:8" H 10700 3300 50  0000 C CNN
-F 1 "D" H 10850 3300 50  0001 C CNN
-F 2 "" H 10700 3400 50  0001 C CNN
-F 3 "~" H 10700 3400 50  0001 C CNN
-	1    10700 3400
-	1    0    0    -1  
-$EndComp
-$Comp
-L Switch:SW_Push SW2:?
-U 1 1 60E5CE65
-P 10700 2450
-AR Path="/60E5CE65" Ref="SW2:?"  Part="1" 
-AR Path="/60E14924/60E5CE65" Ref="SW3:8"  Part="1" 
-F 0 "SW3:8" H 10550 2600 50  0000 C CNN
-F 1 "Key_5" H 10850 2600 50  0000 C CNN
-F 2 "" H 10700 2650 50  0001 C CNN
-F 3 "~" H 10700 2650 50  0001 C CNN
-	1    10700 2450
-	1    0    0    -1  
-$EndComp
-$Comp
-L Device:D D?
-U 1 1 60E5CE6B
-P 10700 2600
-AR Path="/60E5CE6B" Ref="D?"  Part="1" 
-AR Path="/60E14924/60E5CE6B" Ref="D3:8"  Part="1" 
-F 0 "D3:8" H 10700 2500 50  0000 C CNN
-F 1 "D" H 10850 2500 50  0001 C CNN
-F 2 "" H 10700 2600 50  0001 C CNN
-F 3 "~" H 10700 2600 50  0001 C CNN
-	1    10700 2600
-	1    0    0    -1  
-$EndComp
-$Comp
-L Switch:SW_Push SW3:?
-U 1 1 60E5CE71
-P 9900 3250
-AR Path="/60E5CE71" Ref="SW3:?"  Part="1" 
-AR Path="/60E14924/60E5CE71" Ref="SW4:7"  Part="1" 
-F 0 "SW4:7" H 9750 3400 50  0000 C CNN
-F 1 "Key_R" H 10050 3400 50  0000 C CNN
-F 2 "" H 9900 3450 50  0001 C CNN
-F 3 "~" H 9900 3450 50  0001 C CNN
-	1    9900 3250
-	1    0    0    -1  
-$EndComp
-$Comp
-L Device:D D?
-U 1 1 60E5CE77
-P 9900 3400
-AR Path="/60E5CE77" Ref="D?"  Part="1" 
-AR Path="/60E14924/60E5CE77" Ref="D4:7"  Part="1" 
-F 0 "D4:7" H 9900 3300 50  0000 C CNN
-F 1 "D" H 10050 3300 50  0001 C CNN
-F 2 "" H 9900 3400 50  0001 C CNN
-F 3 "~" H 9900 3400 50  0001 C CNN
-	1    9900 3400
-	1    0    0    -1  
-$EndComp
-$Comp
-L Switch:SW_Push SW4:?
-U 1 1 60E5CE7D
-P 9900 4050
-AR Path="/60E5CE7D" Ref="SW4:?"  Part="1" 
-AR Path="/60E14924/60E5CE7D" Ref="SW5:7"  Part="1" 
-F 0 "SW5:7" H 9750 4200 50  0000 C CNN
-F 1 "Key_F" H 10050 4200 50  0000 C CNN
-F 2 "" H 9900 4250 50  0001 C CNN
-F 3 "~" H 9900 4250 50  0001 C CNN
-	1    9900 4050
-	1    0    0    -1  
-$EndComp
-$Comp
-L Device:D D?
-U 1 1 60E5CE83
-P 9900 4200
-AR Path="/60E5CE83" Ref="D?"  Part="1" 
-AR Path="/60E14924/60E5CE83" Ref="D5:7"  Part="1" 
-F 0 "D5:7" H 9900 4100 50  0000 C CNN
-F 1 "D" H 10050 4100 50  0001 C CNN
-F 2 "" H 9900 4200 50  0001 C CNN
-F 3 "~" H 9900 4200 50  0001 C CNN
-	1    9900 4200
-	1    0    0    -1  
-$EndComp
-$Comp
-L Switch:SW_Push SW5:?
-U 1 1 60E5CE89
-P 10700 4850
-AR Path="/60E5CE89" Ref="SW5:?"  Part="1" 
-AR Path="/60E14924/60E5CE89" Ref="SW6:8"  Part="1" 
-F 0 "SW6:8" H 10550 5000 50  0000 C CNN
-F 1 "Key_B" H 10850 5000 50  0000 C CNN
-F 2 "" H 10700 5050 50  0001 C CNN
-F 3 "~" H 10700 5050 50  0001 C CNN
-	1    10700 4850
-	1    0    0    -1  
-$EndComp
-$Comp
-L Device:D D?
-U 1 1 60E5CE8F
-P 10700 5000
-AR Path="/60E5CE8F" Ref="D?"  Part="1" 
-AR Path="/60E14924/60E5CE8F" Ref="D6:8"  Part="1" 
-F 0 "D6:8" H 10700 4900 50  0000 C CNN
-F 1 "D" H 10850 4900 50  0001 C CNN
-F 2 "" H 10700 5000 50  0001 C CNN
-F 3 "~" H 10700 5000 50  0001 C CNN
-	1    10700 5000
-	1    0    0    -1  
-$EndComp
-$Comp
-L Switch:SW_Push SW4:?
-U 1 1 60E5CE95
-P 10700 4050
-AR Path="/60E5CE95" Ref="SW4:?"  Part="1" 
-AR Path="/60E14924/60E5CE95" Ref="SW5:8"  Part="1" 
-F 0 "SW5:8" H 10550 4200 50  0000 C CNN
-F 1 "Key_G" H 10850 4200 50  0000 C CNN
-F 2 "" H 10700 4250 50  0001 C CNN
-F 3 "~" H 10700 4250 50  0001 C CNN
-	1    10700 4050
-	1    0    0    -1  
-$EndComp
-$Comp
-L Device:D D?
-U 1 1 60E5CE9B
-P 10700 4200
-AR Path="/60E5CE9B" Ref="D?"  Part="1" 
-AR Path="/60E14924/60E5CE9B" Ref="D5:8"  Part="1" 
-F 0 "D5:8" H 10700 4100 50  0000 C CNN
-F 1 "D" H 10850 4100 50  0001 C CNN
-F 2 "" H 10700 4200 50  0001 C CNN
-F 3 "~" H 10700 4200 50  0001 C CNN
-	1    10700 4200
-	1    0    0    -1  
-$EndComp
-$Comp
-L Switch:SW_Push SW5:?
-U 1 1 60E5CEA1
-P 9900 4850
-AR Path="/60E5CEA1" Ref="SW5:?"  Part="1" 
-AR Path="/60E14924/60E5CEA1" Ref="SW6:7"  Part="1" 
-F 0 "SW6:7" H 9750 5000 50  0000 C CNN
-F 1 "Key_V" H 10050 5000 50  0000 C CNN
-F 2 "" H 9900 5050 50  0001 C CNN
-F 3 "~" H 9900 5050 50  0001 C CNN
-	1    9900 4850
-	1    0    0    -1  
-$EndComp
-$Comp
-L Device:D D?
-U 1 1 60E5CEA7
-P 9900 5000
-AR Path="/60E5CEA7" Ref="D?"  Part="1" 
-AR Path="/60E14924/60E5CEA7" Ref="D6:7"  Part="1" 
-F 0 "D6:7" H 9900 4900 50  0000 C CNN
-F 1 "D" H 10050 4900 50  0001 C CNN
-F 2 "" H 9900 5000 50  0001 C CNN
-F 3 "~" H 9900 5000 50  0001 C CNN
-	1    9900 5000
-	1    0    0    -1  
-$EndComp
-$Comp
-L Switch:SW_Push SW2:?
-U 1 1 60E5CEAD
-P 8300 2450
-AR Path="/60E5CEAD" Ref="SW2:?"  Part="1" 
-AR Path="/60E14924/60E5CEAD" Ref="SW3:5"  Part="1" 
-F 0 "SW3:5" H 8150 2600 50  0000 C CNN
-F 1 "Key_2" H 8450 2600 50  0000 C CNN
-F 2 "" H 8300 2650 50  0001 C CNN
-F 3 "~" H 8300 2650 50  0001 C CNN
-	1    8300 2450
-	1    0    0    -1  
-$EndComp
-$Comp
-L Device:D D?
-U 1 1 60E5CEB3
-P 8300 2600
-AR Path="/60E5CEB3" Ref="D?"  Part="1" 
-AR Path="/60E14924/60E5CEB3" Ref="D3:5"  Part="1" 
-F 0 "D3:5" H 8300 2500 50  0000 C CNN
-F 1 "D" H 8450 2500 50  0001 C CNN
-F 2 "" H 8300 2600 50  0001 C CNN
-F 3 "~" H 8300 2600 50  0001 C CNN
-	1    8300 2600
-	1    0    0    -1  
-$EndComp
-$Comp
-L Switch:SW_Push SW3:?
-U 1 1 60E5CEB9
-P 9100 3250
-AR Path="/60E5CEB9" Ref="SW3:?"  Part="1" 
-AR Path="/60E14924/60E5CEB9" Ref="SW4:6"  Part="1" 
-F 0 "SW4:6" H 8950 3400 50  0000 C CNN
-F 1 "Key_E" H 9250 3400 50  0000 C CNN
-F 2 "" H 9100 3450 50  0001 C CNN
-F 3 "~" H 9100 3450 50  0001 C CNN
-	1    9100 3250
-	1    0    0    -1  
-$EndComp
-$Comp
-L Device:D D?
-U 1 1 60E5CEBF
-P 9100 3400
-AR Path="/60E5CEBF" Ref="D?"  Part="1" 
-AR Path="/60E14924/60E5CEBF" Ref="D4:6"  Part="1" 
-F 0 "D4:6" H 9100 3300 50  0000 C CNN
-F 1 "D" H 9250 3300 50  0001 C CNN
-F 2 "" H 9100 3400 50  0001 C CNN
-F 3 "~" H 9100 3400 50  0001 C CNN
-	1    9100 3400
-	1    0    0    -1  
-$EndComp
-$Comp
-L Switch:SW_Push SW2:?
-U 1 1 60E5CEC5
-P 9100 2450
-AR Path="/60E5CEC5" Ref="SW2:?"  Part="1" 
-AR Path="/60E14924/60E5CEC5" Ref="SW3:6"  Part="1" 
-F 0 "SW3:6" H 8950 2600 50  0000 C CNN
-F 1 "Key_3" H 9250 2600 50  0000 C CNN
-F 2 "" H 9100 2650 50  0001 C CNN
-F 3 "~" H 9100 2650 50  0001 C CNN
-	1    9100 2450
-	1    0    0    -1  
-$EndComp
-$Comp
-L Device:D D?
-U 1 1 60E5CECB
-P 9100 2600
-AR Path="/60E5CECB" Ref="D?"  Part="1" 
-AR Path="/60E14924/60E5CECB" Ref="D3:6"  Part="1" 
-F 0 "D3:6" H 9100 2500 50  0000 C CNN
-F 1 "D" H 9250 2500 50  0001 C CNN
-F 2 "" H 9100 2600 50  0001 C CNN
-F 3 "~" H 9100 2600 50  0001 C CNN
-	1    9100 2600
-	1    0    0    -1  
-$EndComp
-$Comp
-L Switch:SW_Push SW3:?
-U 1 1 60E5CED1
-P 8300 3250
-AR Path="/60E5CED1" Ref="SW3:?"  Part="1" 
-AR Path="/60E14924/60E5CED1" Ref="SW4:5"  Part="1" 
-F 0 "SW4:5" H 8150 3400 50  0000 C CNN
-F 1 "Key_W" H 8450 3400 50  0000 C CNN
-F 2 "" H 8300 3450 50  0001 C CNN
-F 3 "~" H 8300 3450 50  0001 C CNN
-	1    8300 3250
-	1    0    0    -1  
-$EndComp
-$Comp
-L Device:D D?
-U 1 1 60E5CED7
-P 8300 3400
-AR Path="/60E5CED7" Ref="D?"  Part="1" 
-AR Path="/60E14924/60E5CED7" Ref="D4:5"  Part="1" 
-F 0 "D4:5" H 8300 3300 50  0000 C CNN
-F 1 "D" H 8450 3300 50  0001 C CNN
-F 2 "" H 8300 3400 50  0001 C CNN
-F 3 "~" H 8300 3400 50  0001 C CNN
-	1    8300 3400
-	1    0    0    -1  
-$EndComp
-$Comp
-L Switch:SW_Push SW4:?
-U 1 1 60E5CEDD
-P 8300 4050
-AR Path="/60E5CEDD" Ref="SW4:?"  Part="1" 
-AR Path="/60E14924/60E5CEDD" Ref="SW5:5"  Part="1" 
-F 0 "SW5:5" H 8150 4200 50  0000 C CNN
-F 1 "Key_S" H 8450 4200 50  0000 C CNN
-F 2 "" H 8300 4250 50  0001 C CNN
-F 3 "~" H 8300 4250 50  0001 C CNN
-	1    8300 4050
-	1    0    0    -1  
-$EndComp
-$Comp
-L Device:D D?
-U 1 1 60E5CEE3
-P 8300 4200
-AR Path="/60E5CEE3" Ref="D?"  Part="1" 
-AR Path="/60E14924/60E5CEE3" Ref="D5:5"  Part="1" 
-F 0 "D5:5" H 8300 4100 50  0000 C CNN
-F 1 "D" H 8450 4100 50  0001 C CNN
-F 2 "" H 8300 4200 50  0001 C CNN
-F 3 "~" H 8300 4200 50  0001 C CNN
-	1    8300 4200
-	1    0    0    -1  
-$EndComp
-$Comp
-L Switch:SW_Push SW5:?
-U 1 1 60E5CEE9
-P 9100 4850
-AR Path="/60E5CEE9" Ref="SW5:?"  Part="1" 
-AR Path="/60E14924/60E5CEE9" Ref="SW6:6"  Part="1" 
-F 0 "SW6:6" H 8950 5000 50  0000 C CNN
-F 1 "Key_C" H 9250 5000 50  0000 C CNN
-F 2 "" H 9100 5050 50  0001 C CNN
-F 3 "~" H 9100 5050 50  0001 C CNN
-	1    9100 4850
-	1    0    0    -1  
-$EndComp
-$Comp
-L Device:D D?
-U 1 1 60E5CEEF
-P 9100 5000
-AR Path="/60E5CEEF" Ref="D?"  Part="1" 
-AR Path="/60E14924/60E5CEEF" Ref="D6:6"  Part="1" 
-F 0 "D6:6" H 9100 4900 50  0000 C CNN
-F 1 "D" H 9250 4900 50  0001 C CNN
-F 2 "" H 9100 5000 50  0001 C CNN
-F 3 "~" H 9100 5000 50  0001 C CNN
-	1    9100 5000
-	1    0    0    -1  
-$EndComp
-$Comp
-L Switch:SW_Push SW4:?
-U 1 1 60E5CEF5
-P 9100 4050
-AR Path="/60E5CEF5" Ref="SW4:?"  Part="1" 
-AR Path="/60E14924/60E5CEF5" Ref="SW5:6"  Part="1" 
-F 0 "SW5:6" H 8950 4200 50  0000 C CNN
-F 1 "Key_D" H 9250 4200 50  0000 C CNN
-F 2 "" H 9100 4250 50  0001 C CNN
-F 3 "~" H 9100 4250 50  0001 C CNN
-	1    9100 4050
-	1    0    0    -1  
-$EndComp
-$Comp
-L Device:D D?
-U 1 1 60E5CEFB
-P 9100 4200
-AR Path="/60E5CEFB" Ref="D?"  Part="1" 
-AR Path="/60E14924/60E5CEFB" Ref="D5:6"  Part="1" 
-F 0 "D5:6" H 9100 4100 50  0000 C CNN
-F 1 "D" H 9250 4100 50  0001 C CNN
-F 2 "" H 9100 4200 50  0001 C CNN
-F 3 "~" H 9100 4200 50  0001 C CNN
-	1    9100 4200
-	1    0    0    -1  
-$EndComp
-$Comp
-L Switch:SW_Push SW5:?
-U 1 1 60E5CF01
-P 8300 4850
-AR Path="/60E5CF01" Ref="SW5:?"  Part="1" 
-AR Path="/60E14924/60E5CF01" Ref="SW6:5"  Part="1" 
-F 0 "SW6:5" H 8150 5000 50  0000 C CNN
-F 1 "Key_X" H 8450 5000 50  0000 C CNN
-F 2 "" H 8300 5050 50  0001 C CNN
-F 3 "~" H 8300 5050 50  0001 C CNN
-	1    8300 4850
-	1    0    0    -1  
-$EndComp
-$Comp
-L Device:D D?
-U 1 1 60E5CF07
-P 8300 5000
-AR Path="/60E5CF07" Ref="D?"  Part="1" 
-AR Path="/60E14924/60E5CF07" Ref="D6:5"  Part="1" 
-F 0 "D6:5" H 8300 4900 50  0000 C CNN
-F 1 "D" H 8450 4900 50  0001 C CNN
-F 2 "" H 8300 5000 50  0001 C CNN
-F 3 "~" H 8300 5000 50  0001 C CNN
-	1    8300 5000
-	1    0    0    -1  
-$EndComp
-$Comp
-L Switch:SW_Push SW2:?
-U 1 1 60E5CF0D
-P 6700 2450
-AR Path="/60E5CF0D" Ref="SW2:?"  Part="1" 
-AR Path="/60E14924/60E5CF0D" Ref="SW3:3"  Part="1" 
-F 0 "SW3:3" H 6550 2600 50  0000 C CNN
-F 1 "Key_Tlde" H 6850 2600 50  0000 C CNN
-F 2 "" H 6700 2650 50  0001 C CNN
-F 3 "~" H 6700 2650 50  0001 C CNN
-	1    6700 2450
-	1    0    0    -1  
-$EndComp
-$Comp
-L Device:D D?
-U 1 1 60E5CF13
-P 6700 2600
-AR Path="/60E5CF13" Ref="D?"  Part="1" 
-AR Path="/60E14924/60E5CF13" Ref="D3:3"  Part="1" 
-F 0 "D3:3" H 6700 2500 50  0000 C CNN
-F 1 "D" H 6850 2500 50  0001 C CNN
-F 2 "" H 6700 2600 50  0001 C CNN
-F 3 "~" H 6700 2600 50  0001 C CNN
-	1    6700 2600
-	1    0    0    -1  
-$EndComp
-$Comp
-L Switch:SW_Push SW3:?
-U 1 1 60E5CF19
-P 7500 3250
-AR Path="/60E5CF19" Ref="SW3:?"  Part="1" 
-AR Path="/60E14924/60E5CF19" Ref="SW4:4"  Part="1" 
-F 0 "SW4:4" H 7350 3400 50  0000 C CNN
-F 1 "Key_Q" H 7650 3400 50  0000 C CNN
-F 2 "" H 7500 3450 50  0001 C CNN
-F 3 "~" H 7500 3450 50  0001 C CNN
-	1    7500 3250
-	1    0    0    -1  
-$EndComp
-$Comp
-L Device:D D?
-U 1 1 60E5CF1F
-P 7500 3400
-AR Path="/60E5CF1F" Ref="D?"  Part="1" 
-AR Path="/60E14924/60E5CF1F" Ref="D4:4"  Part="1" 
-F 0 "D4:4" H 7500 3300 50  0000 C CNN
-F 1 "D" H 7650 3300 50  0001 C CNN
-F 2 "" H 7500 3400 50  0001 C CNN
-F 3 "~" H 7500 3400 50  0001 C CNN
-	1    7500 3400
-	1    0    0    -1  
-$EndComp
-$Comp
-L Switch:SW_Push SW2:?
-U 1 1 60E5CF25
-P 7500 2450
-AR Path="/60E5CF25" Ref="SW2:?"  Part="1" 
-AR Path="/60E14924/60E5CF25" Ref="SW3:4"  Part="1" 
-F 0 "SW3:4" H 7350 2600 50  0000 C CNN
-F 1 "Key_1" H 7650 2600 50  0000 C CNN
-F 2 "" H 7500 2650 50  0001 C CNN
-F 3 "~" H 7500 2650 50  0001 C CNN
-	1    7500 2450
-	1    0    0    -1  
-$EndComp
-$Comp
-L Device:D D?
-U 1 1 60E5CF2B
-P 7500 2600
-AR Path="/60E5CF2B" Ref="D?"  Part="1" 
-AR Path="/60E14924/60E5CF2B" Ref="D3:4"  Part="1" 
-F 0 "D3:4" H 7500 2500 50  0000 C CNN
-F 1 "D" H 7650 2500 50  0001 C CNN
-F 2 "" H 7500 2600 50  0001 C CNN
-F 3 "~" H 7500 2600 50  0001 C CNN
-	1    7500 2600
-	1    0    0    -1  
-$EndComp
-$Comp
-L Switch:SW_Push SW3:?
-U 1 1 60E5CF31
-P 6700 3250
-AR Path="/60E5CF31" Ref="SW3:?"  Part="1" 
-AR Path="/60E14924/60E5CF31" Ref="SW4:3"  Part="1" 
-F 0 "SW4:3" H 6550 3400 50  0000 C CNN
-F 1 "Key_Tab" H 6850 3400 50  0000 C CNN
-F 2 "" H 6700 3450 50  0001 C CNN
-F 3 "~" H 6700 3450 50  0001 C CNN
-	1    6700 3250
-	1    0    0    -1  
-$EndComp
-$Comp
-L Device:D D?
-U 1 1 60E5CF37
-P 6700 3400
-AR Path="/60E5CF37" Ref="D?"  Part="1" 
-AR Path="/60E14924/60E5CF37" Ref="D4:3"  Part="1" 
-F 0 "D4:3" H 6700 3300 50  0000 C CNN
-F 1 "D" H 6850 3300 50  0001 C CNN
-F 2 "" H 6700 3400 50  0001 C CNN
-F 3 "~" H 6700 3400 50  0001 C CNN
-	1    6700 3400
-	1    0    0    -1  
-$EndComp
-$Comp
-L Switch:SW_Push SW4:?
-U 1 1 60E5CF3D
-P 6700 4050
-AR Path="/60E5CF3D" Ref="SW4:?"  Part="1" 
-AR Path="/60E14924/60E5CF3D" Ref="SW5:3"  Part="1" 
-F 0 "SW5:3" H 6550 4200 50  0000 C CNN
-F 1 "Key_Caps" H 6850 4200 50  0000 C CNN
-F 2 "" H 6700 4250 50  0001 C CNN
-F 3 "~" H 6700 4250 50  0001 C CNN
-	1    6700 4050
-	1    0    0    -1  
-$EndComp
-$Comp
-L Device:D D?
-U 1 1 60E5CF43
-P 6700 4200
-AR Path="/60E5CF43" Ref="D?"  Part="1" 
-AR Path="/60E14924/60E5CF43" Ref="D5:3"  Part="1" 
-F 0 "D5:3" H 6700 4100 50  0000 C CNN
-F 1 "D" H 6850 4100 50  0001 C CNN
-F 2 "" H 6700 4200 50  0001 C CNN
-F 3 "~" H 6700 4200 50  0001 C CNN
-	1    6700 4200
-	1    0    0    -1  
-$EndComp
-$Comp
-L Switch:SW_Push SW5:?
-U 1 1 60E5CF49
-P 7500 4850
-AR Path="/60E5CF49" Ref="SW5:?"  Part="1" 
-AR Path="/60E14924/60E5CF49" Ref="SW6:4"  Part="1" 
-F 0 "SW6:4" H 7350 5000 50  0000 C CNN
-F 1 "Key_Z" H 7650 5000 50  0000 C CNN
-F 2 "" H 7500 5050 50  0001 C CNN
-F 3 "~" H 7500 5050 50  0001 C CNN
-	1    7500 4850
-	1    0    0    -1  
-$EndComp
-$Comp
-L Device:D D?
-U 1 1 60E5CF4F
-P 7500 5000
-AR Path="/60E5CF4F" Ref="D?"  Part="1" 
-AR Path="/60E14924/60E5CF4F" Ref="D6:4"  Part="1" 
-F 0 "D6:4" H 7500 4900 50  0000 C CNN
-F 1 "D" H 7650 4900 50  0001 C CNN
-F 2 "" H 7500 5000 50  0001 C CNN
-F 3 "~" H 7500 5000 50  0001 C CNN
-	1    7500 5000
-	1    0    0    -1  
-$EndComp
-$Comp
-L Switch:SW_Push SW4:?
-U 1 1 60E5CF55
-P 7500 4050
-AR Path="/60E5CF55" Ref="SW4:?"  Part="1" 
-AR Path="/60E14924/60E5CF55" Ref="SW5:4"  Part="1" 
-F 0 "SW5:4" H 7350 4200 50  0000 C CNN
-F 1 "Key_A" H 7650 4200 50  0000 C CNN
-F 2 "" H 7500 4250 50  0001 C CNN
-F 3 "~" H 7500 4250 50  0001 C CNN
-	1    7500 4050
-	1    0    0    -1  
-$EndComp
-$Comp
-L Device:D D?
-U 1 1 60E5CF5B
-P 7500 4200
-AR Path="/60E5CF5B" Ref="D?"  Part="1" 
-AR Path="/60E14924/60E5CF5B" Ref="D5:4"  Part="1" 
-F 0 "D5:4" H 7500 4100 50  0000 C CNN
-F 1 "D" H 7650 4100 50  0001 C CNN
-F 2 "" H 7500 4200 50  0001 C CNN
-F 3 "~" H 7500 4200 50  0001 C CNN
-	1    7500 4200
-	1    0    0    -1  
-$EndComp
-$Comp
-L Device:D D?
-U 1 1 60E5CF61
-P 6700 5000
-AR Path="/60E5CF61" Ref="D?"  Part="1" 
-AR Path="/60E14924/60E5CF61" Ref="D6:3"  Part="1" 
-F 0 "D6:3" H 6700 4900 50  0000 C CNN
-F 1 "D" H 6850 4900 50  0001 C CNN
-F 2 "" H 6700 5000 50  0001 C CNN
-F 3 "~" H 6700 5000 50  0001 C CNN
-	1    6700 5000
-	1    0    0    -1  
-$EndComp
-$Comp
-L Device:D D?
-U 1 1 60E5CF67
-P 9500 1800
-AR Path="/60E5CF67" Ref="D?"  Part="1" 
-AR Path="/60E14924/60E5CF67" Ref="D2:6"  Part="1" 
-F 0 "D2:6" H 9500 1700 50  0000 C CNN
-F 1 "D" H 9650 1700 50  0001 C CNN
-F 2 "" H 9500 1800 50  0001 C CNN
-F 3 "~" H 9500 1800 50  0001 C CNN
-	1    9500 1800
-	1    0    0    -1  
-$EndComp
-$Comp
-L Switch:SW_Push SW1:?
-U 1 1 60E5CF6D
-P 9500 1650
-AR Path="/60E5CF6D" Ref="SW1:?"  Part="1" 
-AR Path="/60E14924/60E5CF6D" Ref="SW2:6"  Part="1" 
-F 0 "SW2:6" H 9350 1800 50  0000 C CNN
-F 1 "Key_F5" H 9650 1800 50  0000 C CNN
-F 2 "" H 9500 1850 50  0001 C CNN
-F 3 "~" H 9500 1850 50  0001 C CNN
-	1    9500 1650
-	1    0    0    -1  
-$EndComp
-$Comp
-L Device:D D?
-U 1 1 60E5CF73
-P 10300 1000
-AR Path="/60E5CF73" Ref="D?"  Part="1" 
-AR Path="/60E14924/60E5CF73" Ref="D1:7"  Part="1" 
-F 0 "D1:7" H 10300 900 50  0000 C CNN
-F 1 "D" H 10450 900 50  0001 C CNN
-F 2 "" H 10300 1000 50  0001 C CNN
-F 3 "~" H 10300 1000 50  0001 C CNN
-	1    10300 1000
-	1    0    0    -1  
-$EndComp
-$Comp
-L Device:D D?
-U 1 1 60E5CF79
-P 10300 1800
-AR Path="/60E5CF79" Ref="D?"  Part="1" 
-AR Path="/60E14924/60E5CF79" Ref="D2:7"  Part="1" 
-F 0 "D2:7" H 10300 1700 50  0000 C CNN
-F 1 "D" H 10450 1700 50  0001 C CNN
-F 2 "" H 10300 1800 50  0001 C CNN
-F 3 "~" H 10300 1800 50  0001 C CNN
-	1    10300 1800
-	1    0    0    -1  
-$EndComp
-$Comp
-L Switch:SW_Push SW1:?
-U 1 1 60E5CF7F
-P 10300 1650
-AR Path="/60E5CF7F" Ref="SW1:?"  Part="1" 
-AR Path="/60E14924/60E5CF7F" Ref="SW2:7"  Part="1" 
-F 0 "SW2:7" H 10150 1800 50  0000 C CNN
-F 1 "Key_F6" H 10450 1800 50  0000 C CNN
-F 2 "" H 10300 1850 50  0001 C CNN
-F 3 "~" H 10300 1850 50  0001 C CNN
-	1    10300 1650
-	1    0    0    -1  
-$EndComp
-$Comp
-L Device:D D?
-U 1 1 60E5CF85
-P 9500 1000
-AR Path="/60E5CF85" Ref="D?"  Part="1" 
-AR Path="/60E14924/60E5CF85" Ref="D1:6"  Part="1" 
-F 0 "D1:6" H 9500 900 50  0000 C CNN
-F 1 "D" H 9650 900 50  0001 C CNN
-F 2 "" H 9500 1000 50  0001 C CNN
-F 3 "~" H 9500 1000 50  0001 C CNN
-	1    9500 1000
-	1    0    0    -1  
-$EndComp
-$Comp
-L Device:D D?
-U 1 1 60E5CF8B
-P 5100 3400
-AR Path="/60E5CF8B" Ref="D?"  Part="1" 
-AR Path="/60E14924/60E5CF8B" Ref="D4:2"  Part="1" 
-F 0 "D4:2" H 5100 3300 50  0000 C CNN
-F 1 "D" H 5250 3300 50  0001 C CNN
-F 2 "" H 5100 3400 50  0001 C CNN
-F 3 "~" H 5100 3400 50  0001 C CNN
-	1    5100 3400
-	1    0    0    -1  
-$EndComp
-$Comp
-L Device:D D?
-U 1 1 60E5CF91
-P 5500 2600
-AR Path="/60E5CF91" Ref="D?"  Part="1" 
-AR Path="/60E14924/60E5CF91" Ref="D3:2"  Part="1" 
-F 0 "D3:2" H 5500 2500 50  0000 C CNN
-F 1 "D" H 5650 2500 50  0001 C CNN
-F 2 "" H 5500 2600 50  0001 C CNN
-F 3 "~" H 5500 2600 50  0001 C CNN
-	1    5500 2600
-	1    0    0    -1  
-$EndComp
-$Comp
-L Switch:SW_Push SW5:?
-U 1 1 60E5CF97
-P 5500 2450
-AR Path="/60E5CF97" Ref="SW5:?"  Part="1" 
-AR Path="/60E14924/60E5CF97" Ref="SW3:2"  Part="1" 
-F 0 "SW3:2" H 5350 2600 50  0000 C CNN
-F 1 "Key_End" H 5650 2600 50  0000 C CNN
-F 2 "" H 5500 2650 50  0001 C CNN
-F 3 "~" H 5500 2650 50  0001 C CNN
-	1    5500 2450
-	1    0    0    -1  
-$EndComp
-$Comp
-L Device:D D?
-U 1 1 60E5CF9D
-P 5100 4200
-AR Path="/60E5CF9D" Ref="D?"  Part="1" 
-AR Path="/60E14924/60E5CF9D" Ref="D5:2"  Part="1" 
-F 0 "D5:2" H 5100 4100 50  0000 C CNN
-F 1 "D" H 5250 4100 50  0001 C CNN
-F 2 "" H 5100 4200 50  0001 C CNN
-F 3 "~" H 5100 4200 50  0001 C CNN
-	1    5100 4200
-	1    0    0    -1  
-$EndComp
-$Comp
-L Device:D D?
-U 1 1 60E5CFA3
-P 4700 2600
-AR Path="/60E5CFA3" Ref="D?"  Part="1" 
-AR Path="/60E14924/60E5CFA3" Ref="D3:1"  Part="1" 
-F 0 "D3:1" H 4700 2500 50  0000 C CNN
-F 1 "D" H 4850 2500 50  0001 C CNN
-F 2 "" H 4700 2600 50  0001 C CNN
-F 3 "~" H 4700 2600 50  0001 C CNN
-	1    4700 2600
-	1    0    0    -1  
-$EndComp
-$Comp
-L Switch:SW_Push SW4:?
-U 1 1 60E5CFA9
-P 4700 2450
-AR Path="/60E5CFA9" Ref="SW4:?"  Part="1" 
-AR Path="/60E14924/60E5CFA9" Ref="SW3:1"  Part="1" 
-F 0 "SW3:1" H 4550 2600 50  0000 C CNN
-F 1 "Key_Home" H 4850 2600 50  0000 C CNN
-F 2 "" H 4700 2650 50  0001 C CNN
-F 3 "~" H 4700 2650 50  0001 C CNN
-	1    4700 2450
-	1    0    0    -1  
-$EndComp
-$Comp
-L Switch:SW_Push SW1:?
-U 1 1 60E5CFAF
-P 7500 1650
-AR Path="/60E5CFAF" Ref="SW1:?"  Part="1" 
-AR Path="/60E14924/60E5CFAF" Ref="SW2:4"  Part="1" 
-F 0 "SW2:4" H 7350 1800 50  0000 C CNN
-F 1 "Key_F3" H 7650 1800 50  0000 C CNN
-F 2 "" H 7500 1850 50  0001 C CNN
-F 3 "~" H 7500 1850 50  0001 C CNN
-	1    7500 1650
-	1    0    0    -1  
-$EndComp
-$Comp
-L Device:D D?
-U 1 1 60E5CFB5
-P 7500 1800
-AR Path="/60E5CFB5" Ref="D?"  Part="1" 
-AR Path="/60E14924/60E5CFB5" Ref="D2:4"  Part="1" 
-F 0 "D2:4" H 7500 1700 50  0000 C CNN
-F 1 "D" H 7650 1700 50  0001 C CNN
-F 2 "" H 7500 1800 50  0001 C CNN
-F 3 "~" H 7500 1800 50  0001 C CNN
-	1    7500 1800
-	1    0    0    -1  
-$EndComp
-$Comp
-L Switch:SW_Push SW1:?
-U 1 1 60E5CFBB
-P 8300 1650
-AR Path="/60E5CFBB" Ref="SW1:?"  Part="1" 
-AR Path="/60E14924/60E5CFBB" Ref="SW2:5"  Part="1" 
-F 0 "SW2:5" H 8150 1800 50  0000 C CNN
-F 1 "Key_F4" H 8450 1800 50  0000 C CNN
-F 2 "" H 8300 1850 50  0001 C CNN
-F 3 "~" H 8300 1850 50  0001 C CNN
-	1    8300 1650
-	1    0    0    -1  
-$EndComp
-$Comp
-L Device:D D?
-U 1 1 60E5CFC1
-P 8300 1800
-AR Path="/60E5CFC1" Ref="D?"  Part="1" 
-AR Path="/60E14924/60E5CFC1" Ref="D2:5"  Part="1" 
-F 0 "D2:5" H 8300 1700 50  0000 C CNN
-F 1 "D" H 8450 1700 50  0001 C CNN
-F 2 "" H 8300 1800 50  0001 C CNN
-F 3 "~" H 8300 1800 50  0001 C CNN
-	1    8300 1800
-	1    0    0    -1  
-$EndComp
-$Comp
-L Switch:SW_Push SW2:?
-U 1 1 60E5CFC7
-P 5900 1650
-AR Path="/60E5CFC7" Ref="SW2:?"  Part="1" 
-AR Path="/60E14924/60E5CFC7" Ref="SW2:2"  Part="1" 
-F 0 "SW2:2" H 5750 1800 50  0000 C CNN
-F 1 "Key_F1" H 6050 1800 50  0000 C CNN
-F 2 "" H 5900 1850 50  0001 C CNN
-F 3 "~" H 5900 1850 50  0001 C CNN
-	1    5900 1650
-	1    0    0    -1  
-$EndComp
-$Comp
-L Device:D D?
-U 1 1 60E5CFCD
-P 5900 1800
-AR Path="/60E5CFCD" Ref="D?"  Part="1" 
-AR Path="/60E14924/60E5CFCD" Ref="D2:2"  Part="1" 
-F 0 "D2:2" H 5900 1700 50  0000 C CNN
-F 1 "D" H 6050 1700 50  0001 C CNN
-F 2 "" H 5900 1800 50  0001 C CNN
-F 3 "~" H 5900 1800 50  0001 C CNN
-	1    5900 1800
-	1    0    0    -1  
-$EndComp
-$Comp
-L Switch:SW_Push SW1:?
-U 1 1 60E5CFD3
-P 6700 1650
-AR Path="/60E5CFD3" Ref="SW1:?"  Part="1" 
-AR Path="/60E14924/60E5CFD3" Ref="SW2:3"  Part="1" 
-F 0 "SW2:3" H 6550 1800 50  0000 C CNN
-F 1 "Key_F2" H 6850 1800 50  0000 C CNN
-F 2 "" H 6700 1850 50  0001 C CNN
-F 3 "~" H 6700 1850 50  0001 C CNN
-	1    6700 1650
-	1    0    0    -1  
-$EndComp
-$Comp
-L Device:D D?
-U 1 1 60E5CFD9
-P 6700 1800
-AR Path="/60E5CFD9" Ref="D?"  Part="1" 
-AR Path="/60E14924/60E5CFD9" Ref="D2:3"  Part="1" 
-F 0 "D2:3" H 6700 1700 50  0000 C CNN
-F 1 "D" H 6850 1700 50  0001 C CNN
-F 2 "" H 6700 1800 50  0001 C CNN
-F 3 "~" H 6700 1800 50  0001 C CNN
-	1    6700 1800
-	1    0    0    -1  
-$EndComp
-$Comp
-L Switch:SW_Push SW6:?
-U 1 1 60E5CFDF
-P 10700 5650
-AR Path="/60E5CFDF" Ref="SW6:?"  Part="1" 
-AR Path="/60E14924/60E5CFDF" Ref="SW7:8"  Part="1" 
-F 0 "SW7:8" H 10550 5800 50  0000 C CNN
-F 1 "Key_LSpc" H 10850 5800 50  0000 C CNN
-F 2 "" H 10700 5850 50  0001 C CNN
-F 3 "~" H 10700 5850 50  0001 C CNN
-	1    10700 5650
-	1    0    0    -1  
-$EndComp
-$Comp
-L Device:D D?
-U 1 1 60E5CFE5
-P 10700 5800
-AR Path="/60E5CFE5" Ref="D?"  Part="1" 
-AR Path="/60E14924/60E5CFE5" Ref="D7:8"  Part="1" 
-F 0 "D7:8" H 10700 5700 50  0000 C CNN
-F 1 "D" H 10850 5700 50  0001 C CNN
-F 2 "" H 10700 5800 50  0001 C CNN
-F 3 "~" H 10700 5800 50  0001 C CNN
-	1    10700 5800
-	1    0    0    -1  
-$EndComp
-$Comp
-L Switch:SW_Push SW6:?
-U 1 1 60E5CFEB
-P 9100 5650
-AR Path="/60E5CFEB" Ref="SW6:?"  Part="1" 
-AR Path="/60E14924/60E5CFEB" Ref="SW7:6"  Part="1" 
-F 0 "SW7:6" H 8950 5800 50  0000 C CNN
-F 1 "Key_LAlt" H 9250 5800 50  0000 C CNN
-F 2 "" H 9100 5850 50  0001 C CNN
-F 3 "~" H 9100 5850 50  0001 C CNN
-	1    9100 5650
-	1    0    0    -1  
-$EndComp
-$Comp
-L Device:D D?
-U 1 1 60E5CFF1
-P 9100 5800
-AR Path="/60E5CFF1" Ref="D?"  Part="1" 
-AR Path="/60E14924/60E5CFF1" Ref="D7:6"  Part="1" 
-F 0 "D7:6" H 9100 5700 50  0000 C CNN
-F 1 "D" H 9250 5700 50  0001 C CNN
-F 2 "" H 9100 5800 50  0001 C CNN
-F 3 "~" H 9100 5800 50  0001 C CNN
-	1    9100 5800
-	1    0    0    -1  
-$EndComp
-$Comp
-L Device:D D?
-U 1 1 60E5CFFD
-P 8300 5800
-AR Path="/60E5CFFD" Ref="D?"  Part="1" 
-AR Path="/60E14924/60E5CFFD" Ref="D7:5"  Part="1" 
-F 0 "D7:5" H 8300 5700 50  0000 C CNN
-F 1 "D" H 8450 5700 50  0001 C CNN
-F 2 "" H 8300 5800 50  0001 C CNN
-F 3 "~" H 8300 5800 50  0001 C CNN
-	1    8300 5800
-	1    0    0    -1  
-$EndComp
-$Comp
-L Switch:SW_Push SW6:?
-U 1 1 60E5D003
-P 7500 5650
-AR Path="/60E5D003" Ref="SW6:?"  Part="1" 
-AR Path="/60E14924/60E5D003" Ref="SW7:4"  Part="1" 
-F 0 "SW7:4" H 7350 5800 50  0000 C CNN
-F 1 "Key_Fn" H 7650 5800 50  0000 C CNN
-F 2 "" H 7500 5850 50  0001 C CNN
-F 3 "~" H 7500 5850 50  0001 C CNN
-	1    7500 5650
-	1    0    0    -1  
-$EndComp
-$Comp
-L Device:D D?
-U 1 1 60E5D009
-P 7500 5800
-AR Path="/60E5D009" Ref="D?"  Part="1" 
-AR Path="/60E14924/60E5D009" Ref="D7:4"  Part="1" 
-F 0 "D7:4" H 7500 5700 50  0000 C CNN
-F 1 "D" H 7650 5700 50  0001 C CNN
-F 2 "" H 7500 5800 50  0001 C CNN
-F 3 "~" H 7500 5800 50  0001 C CNN
-	1    7500 5800
-	1    0    0    -1  
-$EndComp
-$Comp
-L Switch:SW_Push SW6:?
-U 1 1 60E5D00F
-P 6700 5650
-AR Path="/60E5D00F" Ref="SW6:?"  Part="1" 
-AR Path="/60E14924/60E5D00F" Ref="SW7:3"  Part="1" 
-F 0 "SW7:3" H 6550 5800 50  0000 C CNN
-F 1 "Key_LCtrl" H 6850 5800 50  0000 C CNN
-F 2 "" H 6700 5850 50  0001 C CNN
-F 3 "~" H 6700 5850 50  0001 C CNN
-	1    6700 5650
-	1    0    0    -1  
-$EndComp
-$Comp
-L Device:D D?
-U 1 1 60E5D015
-P 6700 5800
-AR Path="/60E5D015" Ref="D?"  Part="1" 
-AR Path="/60E14924/60E5D015" Ref="D7:3"  Part="1" 
-F 0 "D7:3" H 6700 5700 50  0000 C CNN
-F 1 "D" H 6850 5700 50  0001 C CNN
-F 2 "" H 6700 5800 50  0001 C CNN
-F 3 "~" H 6700 5800 50  0001 C CNN
-	1    6700 5800
-	1    0    0    -1  
-$EndComp
 Wire Wire Line
 	4900 2450 4900 2600
 Wire Wire Line
@@ -1033,10 +45,6 @@ Wire Wire Line
 	8500 1650 8500 1800
 Wire Wire Line
 	8500 1800 8450 1800
-Wire Wire Line
-	9700 850  9700 1000
-Wire Wire Line
-	9700 1000 9650 1000
 Wire Wire Line
 	10500 850  10500 1000
 Wire Wire Line
@@ -1165,32 +173,6 @@ Wire Wire Line
 	10900 5650 10900 5800
 Wire Wire Line
 	10900 5800 10850 5800
-$Comp
-L Switch:SW_Push SW6:?
-U 1 1 60E5D08E
-P 5100 3250
-AR Path="/60E5D08E" Ref="SW6:?"  Part="1" 
-AR Path="/60E14924/60E5D08E" Ref="SW4:2"  Part="1" 
-F 0 "SW4:2" H 4950 3400 50  0000 C CNN
-F 1 "Key_PgUp" H 5250 3400 50  0000 C CNN
-F 2 "" H 5100 3450 50  0001 C CNN
-F 3 "~" H 5100 3450 50  0001 C CNN
-	1    5100 3250
-	1    0    0    -1  
-$EndComp
-$Comp
-L Switch:SW_Push SW6:?
-U 1 1 60E5D094
-P 5100 4050
-AR Path="/60E5D094" Ref="SW6:?"  Part="1" 
-AR Path="/60E14924/60E5D094" Ref="SW5:2"  Part="1" 
-F 0 "SW5:2" H 4950 4200 50  0000 C CNN
-F 1 "Key_PgDn" H 5250 4200 50  0000 C CNN
-F 2 "" H 5100 4250 50  0001 C CNN
-F 3 "~" H 5100 4250 50  0001 C CNN
-	1    5100 4050
-	1    0    0    -1  
-$EndComp
 Wire Wire Line
 	4400 2450 4500 2450
 Wire Wire Line
@@ -1370,19 +352,6 @@ Wire Wire Line
 	10000 850  10100 850 
 Wire Wire Line
 	10000 1650 10100 1650
-$Comp
-L Switch:SW_Push SW5:?
-U 1 1 60E5D125
-P 6700 4850
-AR Path="/60E5D125" Ref="SW5:?"  Part="1" 
-AR Path="/60E14924/60E5D125" Ref="SW6:3"  Part="1" 
-F 0 "SW6:3" H 6550 5000 50  0000 C CNN
-F 1 "Key_LShft" H 6850 5000 50  0000 C CNN
-F 2 "" H 6700 5050 50  0001 C CNN
-F 3 "~" H 6700 5050 50  0001 C CNN
-	1    6700 4850
-	1    0    0    -1  
-$EndComp
 Wire Wire Line
 	7900 6100 7900 5800
 Wire Wire Line
@@ -1509,8 +478,6 @@ Wire Wire Line
 	10300 4200 10300 5000
 Connection ~ 10300 5000
 Wire Wire Line
-	10300 5000 10550 5000
-Wire Wire Line
 	10300 4200 10550 4200
 Wire Wire Line
 	10300 3400 10550 3400
@@ -1533,54 +500,13 @@ Wire Wire Line
 Wire Wire Line
 	10400 4050 10500 4050
 Wire Wire Line
-	10400 4850 10500 4850
-Wire Wire Line
 	10400 5650 10500 5650
-$Comp
-L Switch:SW_Push SW1:?
-U 1 1 60E5D1A1
-P 10300 850
-AR Path="/60E5D1A1" Ref="SW1:?"  Part="1" 
-AR Path="/60E14924/60E5D1A1" Ref="SW1:7"  Part="1" 
-F 0 "SW1:7" H 10150 1000 50  0000 C CNN
-F 1 "Key_Paus" H 10450 1000 50  0000 C CNN
-F 2 "" H 10300 1050 50  0001 C CNN
-F 3 "~" H 10300 1050 50  0001 C CNN
-	1    10300 850 
-	1    0    0    -1  
-$EndComp
 Wire Wire Line
 	4900 1800 4850 1800
-$Comp
-L Device:D D?
-U 1 1 60E5D1C6
-P 4700 1800
-AR Path="/60E5D1C6" Ref="D?"  Part="1" 
-AR Path="/60E14924/60E5D1C6" Ref="D2:1"  Part="1" 
-F 0 "D2:1" H 4700 1700 50  0000 C CNN
-F 1 "D" H 4850 1700 50  0001 C CNN
-F 2 "" H 4700 1800 50  0001 C CNN
-F 3 "~" H 4700 1800 50  0001 C CNN
-	1    4700 1800
-	1    0    0    -1  
-$EndComp
 Wire Wire Line
 	4900 1650 4900 1800
 Wire Wire Line
 	4500 1650 4450 1650
-$Comp
-L Switch:SW_Push SW3:?
-U 1 1 60E5D1CE
-P 4700 1650
-AR Path="/60E5D1CE" Ref="SW3:?"  Part="1" 
-AR Path="/60E14924/60E5D1CE" Ref="SW2:1"  Part="1" 
-F 0 "SW2:1" H 4550 1800 50  0000 C CNN
-F 1 "Key_ESC" H 4850 1800 50  0000 C CNN
-F 2 "" H 4700 1850 50  0001 C CNN
-F 3 "~" H 4700 1850 50  0001 C CNN
-	1    4700 1650
-	1    0    0    -1  
-$EndComp
 Wire Wire Line
 	7900 4200 8150 4200
 Connection ~ 7900 4200
@@ -1660,19 +586,15 @@ Wire Wire Line
 	4400 2450 4400 2200
 Connection ~ 4400 2200
 Wire Wire Line
-	4400 2200 5250 2200
+	4400 2200 5200 2200
 Wire Wire Line
 	4800 3000 4800 3250
 Connection ~ 4800 3000
 Wire Wire Line
 	4800 3000 6400 3000
-Wire Wire Line
-	9100 1800 9100 1000
 Connection ~ 9100 1800
 Wire Wire Line
 	9100 1800 8700 1800
-Wire Wire Line
-	9100 1000 9350 1000
 Wire Wire Line
 	9100 1800 9350 1800
 Wire Wire Line
@@ -1688,19 +610,12 @@ Wire Wire Line
 Wire Wire Line
 	4300 2600 4550 2600
 Wire Wire Line
-	5300 2450 5250 2450
-Wire Wire Line
 	4700 3400 4700 2800
 Wire Wire Line
-	4700 2800 5150 2800
+	4700 2800 5100 2800
 Wire Wire Line
 	5350 2800 5350 2600
 Connection ~ 4700 3400
-Wire Wire Line
-	5250 2450 5250 2200
-Connection ~ 5250 2200
-Wire Wire Line
-	5250 2200 6400 2200
 Wire Wire Line
 	5600 1650 5600 1400
 Wire Wire Line
@@ -1708,13 +623,6 @@ Wire Wire Line
 Connection ~ 5600 1400
 Wire Wire Line
 	5600 1400 6400 1400
-Wire Wire Line
-	5150 2800 5150 1800
-Wire Wire Line
-	5150 1800 5750 1800
-Connection ~ 5150 2800
-Wire Wire Line
-	5150 2800 5350 2800
 Wire Wire Line
 	4000 1400 4450 1400
 Connection ~ 4450 1400
@@ -1756,19 +664,6 @@ Wire Wire Line
 Connection ~ 10300 5800
 Wire Wire Line
 	10300 5800 10300 6150
-$Comp
-L Switch:SW_Push SW1:?
-U 1 1 60E5D19B
-P 9500 850
-AR Path="/60E5D19B" Ref="SW1:?"  Part="1" 
-AR Path="/60E14924/60E5D19B" Ref="SW1:6"  Part="1" 
-F 0 "SW1:6" H 9350 1000 50  0000 C CNN
-F 1 "Key_Scrl" H 9650 1000 50  0000 C CNN
-F 2 "" H 9500 1050 50  0001 C CNN
-F 3 "~" H 9500 1050 50  0001 C CNN
-	1    9500 850 
-	1    0    0    -1  
-$EndComp
 Connection ~ 4300 2600
 Wire Wire Line
 	4300 2600 4300 4500
@@ -1790,122 +685,742 @@ Connection ~ 9500 5000
 Text Label 10300 6150 1    50   ~ 0
 COL8
 $Comp
-L Switch:SW_Push SW6:?
-U 1 1 60E5CFF7
-P 8300 5650
-AR Path="/60E5CFF7" Ref="SW6:?"  Part="1" 
-AR Path="/60E14924/60E5CFF7" Ref="SW7:5"  Part="1" 
-F 0 "SW7:5" H 8150 5800 50  0000 C CNN
-F 1 "Key_LWin" H 8450 5800 50  0000 C CNN
-F 2 "" H 8300 5850 50  0001 C CNN
-F 3 "~" H 8300 5850 50  0001 C CNN
-	1    8300 5650
-	1    0    0    -1  
-$EndComp
-$Comp
-L ergodox:TEENSY2.0 U?
-U 1 1 5F16798B
-P 2400 2700
-F 0 "U?" H 2050 4150 60  0000 C CNN
-F 1 "TEENSY2.0" H 2550 1250 60  0000 C CNN
-F 2 "" H 2400 2700 50  0001 C CNN
-F 3 "" H 2400 2700 50  0001 C CNN
-	1    2400 2700
-	1    0    0    -1  
-$EndComp
-$Comp
-L Switch:SW_Push SW?
-U 1 1 5F171495
-P 1200 1600
-F 0 "SW?" V 1246 1552 50  0000 R CNN
-F 1 "RESET" V 1155 1552 50  0000 R CNN
-F 2 "" H 1200 1800 50  0001 C CNN
-F 3 "~" H 1200 1800 50  0001 C CNN
-	1    1200 1600
-	0    -1   -1   0   
-$EndComp
-Wire Wire Line
-	1800 1400 1200 1400
-$Comp
-L ergodox:GND #PWR?
-U 1 1 5F18D99F
-P 1200 1850
-F 0 "#PWR?" H 1200 1850 30  0001 C CNN
-F 1 "GND" H 1200 1780 30  0001 C CNN
-F 2 "" H 1200 1850 50  0001 C CNN
-F 3 "" H 1200 1850 50  0001 C CNN
-	1    1200 1850
-	1    0    0    -1  
-$EndComp
-NoConn ~ 1800 1500
-NoConn ~ 1800 3100
-$Comp
-L ergodox:GND #PWR?
+L ergodox:GND #PWR017
 U 1 1 5F1C9B46
-P 1700 3800
-F 0 "#PWR?" H 1700 3800 30  0001 C CNN
-F 1 "GND" H 1700 3730 30  0001 C CNN
-F 2 "" H 1700 3800 50  0001 C CNN
-F 3 "" H 1700 3800 50  0001 C CNN
-	1    1700 3800
+P 1650 7000
+F 0 "#PWR017" H 1650 7000 30  0001 C CNN
+F 1 "GND" H 1650 6930 30  0001 C CNN
+F 2 "" H 1650 7000 50  0001 C CNN
+F 3 "" H 1650 7000 50  0001 C CNN
+	1    1650 7000
 	1    0    0    -1  
 $EndComp
 Wire Wire Line
-	1800 3550 1700 3550
-Wire Wire Line
-	1700 3550 1700 3650
-Wire Wire Line
-	1800 3650 1700 3650
-Connection ~ 1700 3650
-Wire Wire Line
-	1700 3650 1700 3750
+	1750 6750 1650 6750
 $Comp
-L power:+5V #PWR?
+L power:+5V #PWR016
 U 1 1 5F2198B8
-P 1700 3000
-F 0 "#PWR?" H 1700 2850 50  0001 C CNN
-F 1 "+5V" H 1715 3173 50  0000 C CNN
-F 2 "" H 1700 3000 50  0001 C CNN
-F 3 "" H 1700 3000 50  0001 C CNN
-	1    1700 3000
+P 1650 6200
+F 0 "#PWR016" H 1650 6050 50  0001 C CNN
+F 1 "+5V" H 1665 6373 50  0000 C CNN
+F 2 "" H 1650 6200 50  0001 C CNN
+F 3 "" H 1650 6200 50  0001 C CNN
+	1    1650 6200
+	1    0    0    -1  
+$EndComp
+Text Label 2950 5700 0    50   ~ 0
+SCL
+Text Label 2950 5800 0    50   ~ 0
+SDA
+Text Label 2950 5900 0    50   ~ 0
+LED_D
+Text Label 2950 4600 0    50   ~ 0
+COL1
+Text Label 2950 4700 0    50   ~ 0
+COL2
+Text Label 2950 4800 0    50   ~ 0
+COL3
+Text Label 2950 4900 0    50   ~ 0
+COL4
+Text Label 2950 5300 0    50   ~ 0
+COL8
+Text Label 2950 6700 0    50   ~ 0
+ROW1
+Text Label 2950 6800 0    50   ~ 0
+ROW2
+Text Label 2950 5450 0    50   ~ 0
+ROW3
+Text Label 2950 5000 0    50   ~ 0
+COL5
+Text Label 2950 5100 0    50   ~ 0
+COL6
+Text Label 2950 5200 0    50   ~ 0
+COL7
+Text Label 2950 7000 0    50   ~ 0
+ROW6
+Text Label 2950 6900 0    50   ~ 0
+ROW5
+Text Label 2950 5550 0    50   ~ 0
+ROW4
+$Comp
+L Connector_Generic:Conn_01x06 J3
+U 1 1 5F265F56
+P 2500 2000
+F 0 "J3" H 2450 2300 50  0000 L CNN
+F 1 "To Right Hand" V 2600 1650 50  0000 L CNN
+F 2 "Connector_PinHeader_1.00mm:PinHeader_1x06_P1.00mm_Horizontal" H 2500 2000 50  0001 C CNN
+F 3 "~" H 2500 2000 50  0001 C CNN
+	1    2500 2000
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:+5V #PWR019
+U 1 1 5F267A36
+P 2300 1800
+F 0 "#PWR019" H 2300 1650 50  0001 C CNN
+F 1 "+5V" H 2315 1973 50  0000 C CNN
+F 2 "" H 2300 1800 50  0001 C CNN
+F 3 "" H 2300 1800 50  0001 C CNN
+	1    2300 1800
+	1    0    0    -1  
+$EndComp
+$Comp
+L ergodox:GND #PWR020
+U 1 1 5F267CF2
+P 2300 2350
+F 0 "#PWR020" H 2300 2350 30  0001 C CNN
+F 1 "GND" H 2300 2280 30  0001 C CNN
+F 2 "" H 2300 2350 50  0001 C CNN
+F 3 "" H 2300 2350 50  0001 C CNN
+	1    2300 2350
+	1    0    0    -1  
+$EndComp
+Text Label 2300 2200 2    50   ~ 0
+LED_D
+Text Label 1700 1900 2    50   ~ 0
+SCL
+Text Label 1700 2000 2    50   ~ 0
+SDA
+$Comp
+L Connector_Generic:Conn_01x04 J4
+U 1 1 5F4D7CE4
+P 2900 3600
+F 0 "J4" H 2850 3800 50  0000 L CNN
+F 1 "Jumper to Teensy USB" V 3000 3150 50  0000 L CNN
+F 2 "Connector_PinHeader_1.00mm:PinHeader_1x04_P1.00mm_Vertical" H 2900 3600 50  0001 C CNN
+F 3 "~" H 2900 3600 50  0001 C CNN
+	1    2900 3600
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:+5V #PWR021
+U 1 1 5F4DC665
+P 2700 3500
+F 0 "#PWR021" H 2700 3350 50  0001 C CNN
+F 1 "+5V" H 2715 3673 50  0000 C CNN
+F 2 "" H 2700 3500 50  0001 C CNN
+F 3 "" H 2700 3500 50  0001 C CNN
+	1    2700 3500
+	1    0    0    -1  
+$EndComp
+$Comp
+L ergodox:GND #PWR022
+U 1 1 5F4DCD46
+P 2700 3850
+F 0 "#PWR022" H 2700 3850 30  0001 C CNN
+F 1 "GND" H 2700 3780 30  0001 C CNN
+F 2 "" H 2700 3850 50  0001 C CNN
+F 3 "" H 2700 3850 50  0001 C CNN
+	1    2700 3850
+	1    0    0    -1  
+$EndComp
+Text Label 2700 3700 2    50   ~ 0
+USB_DP
+Text Label 2700 3600 2    50   ~ 0
+USB_DN
+Wire Wire Line
+	5100 2800 5100 1800
+Connection ~ 5100 2800
+Wire Wire Line
+	5100 2800 5350 2800
+Wire Wire Line
+	5100 1800 5750 1800
+Wire Wire Line
+	5200 2200 5200 2450
+Connection ~ 5200 2200
+Wire Wire Line
+	5200 2450 5300 2450
+Wire Wire Line
+	5200 2200 6400 2200
+Wire Wire Line
+	1650 6400 1750 6400
+$Comp
+L Connector_Generic:Conn_01x04 J2
+U 1 1 5EFF7D09
+P 1750 3600
+F 0 "J2" H 1700 3800 50  0000 L CNN
+F 1 "USB from outside" V 1850 3150 50  0000 L CNN
+F 2 "Connector_PinHeader_1.00mm:PinHeader_1x04_P1.00mm_Horizontal" H 1750 3600 50  0001 C CNN
+F 3 "~" H 1750 3600 50  0001 C CNN
+	1    1750 3600
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:+5V #PWR014
+U 1 1 5EFF7D13
+P 1550 3500
+F 0 "#PWR014" H 1550 3350 50  0001 C CNN
+F 1 "+5V" H 1565 3673 50  0000 C CNN
+F 2 "" H 1550 3500 50  0001 C CNN
+F 3 "" H 1550 3500 50  0001 C CNN
+	1    1550 3500
+	1    0    0    -1  
+$EndComp
+$Comp
+L ergodox:GND #PWR015
+U 1 1 5EFF7D1D
+P 1550 3850
+F 0 "#PWR015" H 1550 3850 30  0001 C CNN
+F 1 "GND" H 1550 3780 30  0001 C CNN
+F 2 "" H 1550 3850 50  0001 C CNN
+F 3 "" H 1550 3850 50  0001 C CNN
+	1    1550 3850
+	1    0    0    -1  
+$EndComp
+Text Label 1550 3700 2    50   ~ 0
+USB_DP
+Text Label 1550 3600 2    50   ~ 0
+USB_DN
+Wire Wire Line
+	9100 1800 9100 1000
+Wire Wire Line
+	9100 1000 9350 1000
+Wire Wire Line
+	9700 1000 9650 1000
+Wire Wire Line
+	9700 850  9700 1000
+$Comp
+L dparticular:SWITCH_DIODE SW5:2
+U 1 1 5F166EFB
+P 5100 4200
+F 0 "SW5:2" H 4950 4500 50  0000 C CNN
+F 1 "Key_PgDn" H 5250 4500 50  0000 C CNN
+F 2 "dparticular:MX_W_DIODE" H 5100 4200 50  0001 C CNN
+F 3 "" H 5100 4200 50  0001 C CNN
+	1    5100 4200
+	1    0    0    -1  
+$EndComp
+$Comp
+L dparticular:SWITCH_DIODE SW1:6
+U 1 1 5F1C8577
+P 9500 1000
+F 0 "SW1:6" H 9350 1300 50  0000 C CNN
+F 1 "Key_Scrl" H 9650 1300 50  0000 C CNN
+F 2 "dparticular:MX_W_DIODE" H 9500 1000 50  0001 C CNN
+F 3 "" H 9500 1000 50  0001 C CNN
+	1    9500 1000
+	1    0    0    -1  
+$EndComp
+$Comp
+L dparticular:SWITCH_DIODE SW1:7
+U 1 1 5F1C8BA1
+P 10300 1000
+F 0 "SW1:7" H 10150 1300 50  0000 C CNN
+F 1 "Key_Paus" H 10450 1300 50  0000 C CNN
+F 2 "dparticular:MX_W_DIODE" H 10300 1000 50  0001 C CNN
+F 3 "" H 10300 1000 50  0001 C CNN
+	1    10300 1000
+	1    0    0    -1  
+$EndComp
+$Comp
+L dparticular:SWITCH_DIODE SW2:1
+U 1 1 5F1DD91F
+P 4700 1800
+F 0 "SW2:1" H 4550 2100 50  0000 C CNN
+F 1 "Key_ESC" H 4850 2100 50  0000 C CNN
+F 2 "dparticular:MX_W_DIODE" H 4700 1800 50  0001 C CNN
+F 3 "" H 4700 1800 50  0001 C CNN
+	1    4700 1800
+	1    0    0    -1  
+$EndComp
+$Comp
+L dparticular:SWITCH_DIODE SW2:2
+U 1 1 5F1DE1D6
+P 5900 1800
+F 0 "SW2:2" H 5750 2100 50  0000 C CNN
+F 1 "Key_F1" H 6050 2100 50  0000 C CNN
+F 2 "dparticular:MX_W_DIODE" H 5900 1800 50  0001 C CNN
+F 3 "" H 5900 1800 50  0001 C CNN
+	1    5900 1800
+	1    0    0    -1  
+$EndComp
+$Comp
+L dparticular:SWITCH_DIODE SW2:3
+U 1 1 5F1DEAC5
+P 6700 1800
+F 0 "SW2:3" H 6550 2100 50  0000 C CNN
+F 1 "Key_F2" H 6850 2100 50  0000 C CNN
+F 2 "dparticular:MX_W_DIODE" H 6700 1800 50  0001 C CNN
+F 3 "" H 6700 1800 50  0001 C CNN
+	1    6700 1800
+	1    0    0    -1  
+$EndComp
+$Comp
+L dparticular:SWITCH_DIODE SW2:4
+U 1 1 5F1DF01E
+P 7500 1800
+F 0 "SW2:4" H 7350 2100 50  0000 C CNN
+F 1 "Key_F3" H 7650 2100 50  0000 C CNN
+F 2 "dparticular:MX_W_DIODE" H 7500 1800 50  0001 C CNN
+F 3 "" H 7500 1800 50  0001 C CNN
+	1    7500 1800
+	1    0    0    -1  
+$EndComp
+$Comp
+L dparticular:SWITCH_DIODE SW2:5
+U 1 1 5F1DF7BA
+P 8300 1800
+F 0 "SW2:5" H 8150 2100 50  0000 C CNN
+F 1 "Key_F4" H 8450 2100 50  0000 C CNN
+F 2 "dparticular:MX_W_DIODE" H 8300 1800 50  0001 C CNN
+F 3 "" H 8300 1800 50  0001 C CNN
+	1    8300 1800
+	1    0    0    -1  
+$EndComp
+$Comp
+L dparticular:SWITCH_DIODE SW2:6
+U 1 1 5F1DFE3D
+P 9500 1800
+F 0 "SW2:6" H 9350 2100 50  0000 C CNN
+F 1 "Key_F5" H 9650 2100 50  0000 C CNN
+F 2 "dparticular:MX_W_DIODE" H 9500 1800 50  0001 C CNN
+F 3 "" H 9500 1800 50  0001 C CNN
+	1    9500 1800
+	1    0    0    -1  
+$EndComp
+$Comp
+L dparticular:SWITCH_DIODE SW2:7
+U 1 1 5F1E0687
+P 10300 1800
+F 0 "SW2:7" H 10150 2100 50  0000 C CNN
+F 1 "Key_F6" H 10450 2100 50  0000 C CNN
+F 2 "dparticular:MX_W_DIODE" H 10300 1800 50  0001 C CNN
+F 3 "" H 10300 1800 50  0001 C CNN
+	1    10300 1800
+	1    0    0    -1  
+$EndComp
+$Comp
+L dparticular:SWITCH_DIODE SW3:1
+U 1 1 5F20E90C
+P 4700 2600
+F 0 "SW3:1" H 4550 2900 50  0000 C CNN
+F 1 "Key_Home" H 4850 2900 50  0000 C CNN
+F 2 "dparticular:MX_W_DIODE" H 4700 2600 50  0001 C CNN
+F 3 "" H 4700 2600 50  0001 C CNN
+	1    4700 2600
+	1    0    0    -1  
+$EndComp
+$Comp
+L dparticular:SWITCH_DIODE SW3:2
+U 1 1 5F20F12E
+P 5500 2600
+F 0 "SW3:2" H 5350 2900 50  0000 C CNN
+F 1 "Key_End" H 5650 2900 50  0000 C CNN
+F 2 "dparticular:MX_W_DIODE" H 5500 2600 50  0001 C CNN
+F 3 "" H 5500 2600 50  0001 C CNN
+	1    5500 2600
+	1    0    0    -1  
+$EndComp
+$Comp
+L dparticular:SWITCH_DIODE SW3:3
+U 1 1 5F20F931
+P 6700 2600
+F 0 "SW3:3" H 6550 2900 50  0000 C CNN
+F 1 "Key_Tilde" H 6850 2900 50  0000 C CNN
+F 2 "dparticular:MX_W_DIODE" H 6700 2600 50  0001 C CNN
+F 3 "" H 6700 2600 50  0001 C CNN
+	1    6700 2600
+	1    0    0    -1  
+$EndComp
+$Comp
+L dparticular:SWITCH_DIODE SW3:4
+U 1 1 5F2100F9
+P 7500 2600
+F 0 "SW3:4" H 7350 2900 50  0000 C CNN
+F 1 "Key_1" H 7650 2900 50  0000 C CNN
+F 2 "dparticular:MX_W_DIODE" H 7500 2600 50  0001 C CNN
+F 3 "" H 7500 2600 50  0001 C CNN
+	1    7500 2600
+	1    0    0    -1  
+$EndComp
+$Comp
+L dparticular:SWITCH_DIODE SW3:5
+U 1 1 5F21097C
+P 8300 2600
+F 0 "SW3:5" H 8150 2900 50  0000 C CNN
+F 1 "Key_2" H 8450 2900 50  0000 C CNN
+F 2 "dparticular:MX_W_DIODE" H 8300 2600 50  0001 C CNN
+F 3 "" H 8300 2600 50  0001 C CNN
+	1    8300 2600
+	1    0    0    -1  
+$EndComp
+$Comp
+L dparticular:SWITCH_DIODE SW3:6
+U 1 1 5F211325
+P 9100 2600
+F 0 "SW3:6" H 8950 2900 50  0000 C CNN
+F 1 "Key_3" H 9250 2900 50  0000 C CNN
+F 2 "dparticular:MX_W_DIODE" H 9100 2600 50  0001 C CNN
+F 3 "" H 9100 2600 50  0001 C CNN
+	1    9100 2600
+	1    0    0    -1  
+$EndComp
+$Comp
+L dparticular:SWITCH_DIODE SW3:7
+U 1 1 5F211B04
+P 9900 2600
+F 0 "SW3:7" H 9750 2900 50  0000 C CNN
+F 1 "Key_4" H 10050 2900 50  0000 C CNN
+F 2 "dparticular:MX_W_DIODE" H 9900 2600 50  0001 C CNN
+F 3 "" H 9900 2600 50  0001 C CNN
+	1    9900 2600
+	1    0    0    -1  
+$EndComp
+$Comp
+L dparticular:SWITCH_DIODE SW3:8
+U 1 1 5F212225
+P 10700 2600
+F 0 "SW3:8" H 10550 2900 50  0000 C CNN
+F 1 "Key_5" H 10850 2900 50  0000 C CNN
+F 2 "dparticular:MX_W_DIODE" H 10700 2600 50  0001 C CNN
+F 3 "" H 10700 2600 50  0001 C CNN
+	1    10700 2600
+	1    0    0    -1  
+$EndComp
+$Comp
+L dparticular:SWITCH_DIODE SW4:2
+U 1 1 5F2457B8
+P 5100 3400
+F 0 "SW4:2" H 4950 3700 50  0000 C CNN
+F 1 "Key_PgUp" H 5250 3700 50  0000 C CNN
+F 2 "dparticular:MX_W_DIODE" H 5100 3400 50  0001 C CNN
+F 3 "" H 5100 3400 50  0001 C CNN
+	1    5100 3400
+	1    0    0    -1  
+$EndComp
+$Comp
+L dparticular:SWITCH_DIODE SW4:3
+U 1 1 5F2460C8
+P 6700 3400
+F 0 "SW4:3" H 6550 3700 50  0000 C CNN
+F 1 "Key_Tab" H 6850 3700 50  0000 C CNN
+F 2 "dparticular:MX_W_DIODE" H 6700 3400 50  0001 C CNN
+F 3 "" H 6700 3400 50  0001 C CNN
+	1    6700 3400
+	1    0    0    -1  
+$EndComp
+$Comp
+L dparticular:SWITCH_DIODE SW4:4
+U 1 1 5F24696F
+P 7500 3400
+F 0 "SW4:4" H 7350 3700 50  0000 C CNN
+F 1 "Key_Q" H 7650 3700 50  0000 C CNN
+F 2 "dparticular:MX_W_DIODE" H 7500 3400 50  0001 C CNN
+F 3 "" H 7500 3400 50  0001 C CNN
+	1    7500 3400
+	1    0    0    -1  
+$EndComp
+$Comp
+L dparticular:SWITCH_DIODE SW4:5
+U 1 1 5F24725E
+P 8300 3400
+F 0 "SW4:5" H 8150 3700 50  0000 C CNN
+F 1 "Key_W" H 8450 3700 50  0000 C CNN
+F 2 "dparticular:MX_W_DIODE" H 8300 3400 50  0001 C CNN
+F 3 "" H 8300 3400 50  0001 C CNN
+	1    8300 3400
+	1    0    0    -1  
+$EndComp
+$Comp
+L dparticular:SWITCH_DIODE SW4:6
+U 1 1 5F247A66
+P 9100 3400
+F 0 "SW4:6" H 8950 3700 50  0000 C CNN
+F 1 "Key_E" H 9250 3700 50  0000 C CNN
+F 2 "dparticular:MX_W_DIODE" H 9100 3400 50  0001 C CNN
+F 3 "" H 9100 3400 50  0001 C CNN
+	1    9100 3400
+	1    0    0    -1  
+$EndComp
+$Comp
+L dparticular:SWITCH_DIODE SW4:7
+U 1 1 5F248225
+P 9900 3400
+F 0 "SW4:7" H 9750 3700 50  0000 C CNN
+F 1 "Key_R" H 10050 3700 50  0000 C CNN
+F 2 "dparticular:MX_W_DIODE" H 9900 3400 50  0001 C CNN
+F 3 "" H 9900 3400 50  0001 C CNN
+	1    9900 3400
+	1    0    0    -1  
+$EndComp
+$Comp
+L dparticular:SWITCH_DIODE SW4:8
+U 1 1 5F248AA1
+P 10700 3400
+F 0 "SW4:8" H 10550 3700 50  0000 C CNN
+F 1 "Key_T" H 10850 3700 50  0000 C CNN
+F 2 "dparticular:MX_W_DIODE" H 10700 3400 50  0001 C CNN
+F 3 "" H 10700 3400 50  0001 C CNN
+	1    10700 3400
+	1    0    0    -1  
+$EndComp
+$Comp
+L dparticular:SWITCH_DIODE SW5:3
+U 1 1 5F2947D3
+P 6700 4200
+F 0 "SW5:3" H 6550 4500 50  0000 C CNN
+F 1 "Key_Caps" H 6850 4500 50  0000 C CNN
+F 2 "dparticular:MX_W_DIODE" H 6700 4200 50  0001 C CNN
+F 3 "" H 6700 4200 50  0001 C CNN
+	1    6700 4200
+	1    0    0    -1  
+$EndComp
+$Comp
+L dparticular:SWITCH_DIODE SW5:4
+U 1 1 5F29510D
+P 7500 4200
+F 0 "SW5:4" H 7350 4500 50  0000 C CNN
+F 1 "Key_A" H 7650 4500 50  0000 C CNN
+F 2 "dparticular:MX_W_DIODE" H 7500 4200 50  0001 C CNN
+F 3 "" H 7500 4200 50  0001 C CNN
+	1    7500 4200
+	1    0    0    -1  
+$EndComp
+$Comp
+L dparticular:SWITCH_DIODE SW5:5
+U 1 1 5F295900
+P 8300 4200
+F 0 "SW5:5" H 8150 4500 50  0000 C CNN
+F 1 "Key_S" H 8450 4500 50  0000 C CNN
+F 2 "dparticular:MX_W_DIODE" H 8300 4200 50  0001 C CNN
+F 3 "" H 8300 4200 50  0001 C CNN
+	1    8300 4200
+	1    0    0    -1  
+$EndComp
+$Comp
+L dparticular:SWITCH_DIODE SW5:6
+U 1 1 5F2960C0
+P 9100 4200
+F 0 "SW5:6" H 8950 4500 50  0000 C CNN
+F 1 "Key_D" H 9250 4500 50  0000 C CNN
+F 2 "dparticular:MX_W_DIODE" H 9100 4200 50  0001 C CNN
+F 3 "" H 9100 4200 50  0001 C CNN
+	1    9100 4200
+	1    0    0    -1  
+$EndComp
+$Comp
+L dparticular:SWITCH_DIODE SW5:7
+U 1 1 5F296935
+P 9900 4200
+F 0 "SW5:7" H 9750 4500 50  0000 C CNN
+F 1 "Key_F" H 10050 4500 50  0000 C CNN
+F 2 "dparticular:MX_W_DIODE" H 9900 4200 50  0001 C CNN
+F 3 "" H 9900 4200 50  0001 C CNN
+	1    9900 4200
+	1    0    0    -1  
+$EndComp
+$Comp
+L dparticular:SWITCH_DIODE SW5:8
+U 1 1 5F29723F
+P 10700 4200
+F 0 "SW5:8" H 10550 4500 50  0000 C CNN
+F 1 "Key_G" H 10850 4500 50  0000 C CNN
+F 2 "dparticular:MX_W_DIODE" H 10700 4200 50  0001 C CNN
+F 3 "" H 10700 4200 50  0001 C CNN
+	1    10700 4200
+	1    0    0    -1  
+$EndComp
+$Comp
+L dparticular:SWITCH_DIODE SW6:3
+U 1 1 5F2ED286
+P 6700 5000
+F 0 "SW6:3" H 6550 5300 50  0000 C CNN
+F 1 "Key_LShft" H 6850 5300 50  0000 C CNN
+F 2 "dparticular:MX_W_DIODE" H 6700 5000 50  0001 C CNN
+F 3 "" H 6700 5000 50  0001 C CNN
+	1    6700 5000
+	1    0    0    -1  
+$EndComp
+$Comp
+L dparticular:SWITCH_DIODE SW6:4
+U 1 1 5F2EE105
+P 7500 5000
+F 0 "SW6:4" H 7350 5300 50  0000 C CNN
+F 1 "Key_Z" H 7650 5300 50  0000 C CNN
+F 2 "dparticular:MX_W_DIODE" H 7500 5000 50  0001 C CNN
+F 3 "" H 7500 5000 50  0001 C CNN
+	1    7500 5000
+	1    0    0    -1  
+$EndComp
+$Comp
+L dparticular:SWITCH_DIODE SW6:5
+U 1 1 5F2EEB49
+P 8300 5000
+F 0 "SW6:5" H 8150 5300 50  0000 C CNN
+F 1 "Key_X" H 8450 5300 50  0000 C CNN
+F 2 "dparticular:MX_W_DIODE" H 8300 5000 50  0001 C CNN
+F 3 "" H 8300 5000 50  0001 C CNN
+	1    8300 5000
+	1    0    0    -1  
+$EndComp
+$Comp
+L dparticular:SWITCH_DIODE SW6:6
+U 1 1 5F2EF6C0
+P 9100 5000
+F 0 "SW6:6" H 8950 5300 50  0000 C CNN
+F 1 "Key_C" H 9250 5300 50  0000 C CNN
+F 2 "dparticular:MX_W_DIODE" H 9100 5000 50  0001 C CNN
+F 3 "" H 9100 5000 50  0001 C CNN
+	1    9100 5000
+	1    0    0    -1  
+$EndComp
+$Comp
+L dparticular:SWITCH_DIODE SW6:7
+U 1 1 5F2F0182
+P 9900 5000
+F 0 "SW6:7" H 9750 5300 50  0000 C CNN
+F 1 "Key_V" H 10050 5300 50  0000 C CNN
+F 2 "dparticular:MX_W_DIODE" H 9900 5000 50  0001 C CNN
+F 3 "" H 9900 5000 50  0001 C CNN
+	1    9900 5000
+	1    0    0    -1  
+$EndComp
+$Comp
+L dparticular:SWITCH_DIODE SW6:8
+U 1 1 5F2F0D34
+P 10700 5000
+F 0 "SW6:8" H 10550 5300 50  0000 C CNN
+F 1 "Key_B" H 10850 5300 50  0000 C CNN
+F 2 "dparticular:MX_W_DIODE" H 10700 5000 50  0001 C CNN
+F 3 "" H 10700 5000 50  0001 C CNN
+	1    10700 5000
+	1    0    0    -1  
+$EndComp
+$Comp
+L dparticular:SWITCH_DIODE SW7:3
+U 1 1 5F316596
+P 6700 5800
+F 0 "SW7:3" H 6550 6100 50  0000 C CNN
+F 1 "Key_LCtrl" H 6850 6100 50  0000 C CNN
+F 2 "dparticular:MX_W_DIODE" H 6700 5800 50  0001 C CNN
+F 3 "" H 6700 5800 50  0001 C CNN
+	1    6700 5800
+	1    0    0    -1  
+$EndComp
+$Comp
+L dparticular:SWITCH_DIODE SW7:4
+U 1 1 5F3174E9
+P 7500 5800
+F 0 "SW7:4" H 7350 6100 50  0000 C CNN
+F 1 "Key_Fn" H 7650 6100 50  0000 C CNN
+F 2 "dparticular:MX_W_DIODE" H 7500 5800 50  0001 C CNN
+F 3 "" H 7500 5800 50  0001 C CNN
+	1    7500 5800
+	1    0    0    -1  
+$EndComp
+$Comp
+L dparticular:SWITCH_DIODE SW7:5
+U 1 1 5F317DCE
+P 8300 5800
+F 0 "SW7:5" H 8150 6100 50  0000 C CNN
+F 1 "Key_LWin" H 8450 6100 50  0000 C CNN
+F 2 "dparticular:MX_W_DIODE" H 8300 5800 50  0001 C CNN
+F 3 "" H 8300 5800 50  0001 C CNN
+	1    8300 5800
+	1    0    0    -1  
+$EndComp
+$Comp
+L dparticular:SWITCH_DIODE SW7:6
+U 1 1 5F3186C5
+P 9100 5800
+F 0 "SW7:6" H 8950 6100 50  0000 C CNN
+F 1 "Key_LAlt" H 9250 6100 50  0000 C CNN
+F 2 "dparticular:MX_W_DIODE" H 9100 5800 50  0001 C CNN
+F 3 "" H 9100 5800 50  0001 C CNN
+	1    9100 5800
+	1    0    0    -1  
+$EndComp
+$Comp
+L dparticular:SWITCH_DIODE SW7:8
+U 1 1 5F3192EC
+P 10700 5800
+F 0 "SW7:8" H 10550 6100 50  0000 C CNN
+F 1 "Key_LSpc" H 10850 6100 50  0000 C CNN
+F 2 "dparticular:MX_W_DIODE" H 10700 5800 50  0001 C CNN
+F 3 "" H 10700 5800 50  0001 C CNN
+	1    10700 5800
 	1    0    0    -1  
 $EndComp
 Wire Wire Line
-	1800 3100 1700 3100
+	10400 4850 10500 4850
 Wire Wire Line
-	1700 3100 1700 3000
-Text Label 3000 2500 0    50   ~ 0
-SCL
-Text Label 3000 2600 0    50   ~ 0
-SDA
-Text Label 3000 2700 0    50   ~ 0
-LED_D
-Text Label 3000 1400 0    50   ~ 0
-ROW1
-Text Label 3000 1500 0    50   ~ 0
-ROW2
-Text Label 3000 1600 0    50   ~ 0
-ROW3
-Text Label 3000 1700 0    50   ~ 0
-ROW4
-Text Label 3000 2100 0    50   ~ 0
-ROW5
-Text Label 3000 2800 0    50   ~ 0
-ROW6
-Text Label 3000 3100 0    50   ~ 0
-COL1
-Text Label 3000 3200 0    50   ~ 0
-COL2
-Text Label 3000 1800 0    50   ~ 0
-COL3
-Text Label 3000 1900 0    50   ~ 0
-COL4
-Text Label 3000 2000 0    50   ~ 0
-COL5
-Text Label 3000 4000 0    50   ~ 0
-COL6
-Text Label 3000 3900 0    50   ~ 0
-COL7
-Text Label 3000 3800 0    50   ~ 0
-COL8
+	10300 5000 10550 5000
+$Comp
+L Device:R R1
+U 1 1 5F04273C
+P 1850 1600
+F 0 "R1" V 1750 1450 50  0000 L CNN
+F 1 "4.7k" V 1750 1600 50  0000 L CNN
+F 2 "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal" V 1780 1600 50  0001 C CNN
+F 3 "~" H 1850 1600 50  0001 C CNN
+	1    1850 1600
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:R R2
+U 1 1 5F045150
+P 2050 1600
+F 0 "R2" V 1950 1450 50  0000 L CNN
+F 1 "4.7k" V 1950 1600 50  0000 L CNN
+F 2 "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal" V 1980 1600 50  0001 C CNN
+F 3 "~" H 2050 1600 50  0001 C CNN
+	1    2050 1600
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	2300 1900 2050 1900
+Wire Wire Line
+	2300 2000 1850 2000
+Wire Wire Line
+	1850 1750 1850 2000
+Connection ~ 1850 2000
+Wire Wire Line
+	1850 2000 1700 2000
+Wire Wire Line
+	2050 1750 2050 1900
+Connection ~ 2050 1900
+Wire Wire Line
+	2050 1900 1700 1900
+$Comp
+L power:+5V #PWR018
+U 1 1 5F1DB8D5
+P 2050 1350
+F 0 "#PWR018" H 2050 1200 50  0001 C CNN
+F 1 "+5V" H 2065 1523 50  0000 C CNN
+F 2 "" H 2050 1350 50  0001 C CNN
+F 3 "" H 2050 1350 50  0001 C CNN
+	1    2050 1350
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	1850 1450 1850 1400
+Wire Wire Line
+	1850 1400 2050 1400
+Wire Wire Line
+	2050 1400 2050 1350
+Wire Wire Line
+	2050 1450 2050 1400
+Connection ~ 2050 1400
+Text Label 2950 7100 0    50   ~ 0
+ROW7
+NoConn ~ 2950 6000
+NoConn ~ 2950 6300
+NoConn ~ 2950 6400
+NoConn ~ 2950 7200
+NoConn ~ 2300 2100
+$Comp
+L dparticular:TEENSY2.0_ONLY_EDGES U2
+U 1 1 5F5E2948
+P 2350 5900
+F 0 "U2" H 2350 7300 60  0000 C CNN
+F 1 "TEENSY2.0_ONLY_EDGES" V 2350 5900 60  0000 C CNN
+F 2 "dparticular:TEENSY_2.0_EDGES_ONLY" H 2350 5900 50  0001 C CNN
+F 3 "" H 2350 5900 50  0001 C CNN
+	1    2350 5900
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	1650 6200 1650 6400
+Wire Wire Line
+	1650 6750 1650 6950
 $EndSCHEMATC
