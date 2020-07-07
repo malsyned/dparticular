@@ -3,7 +3,7 @@ EELAYER 30 0
 EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
-Sheet 1 1
+Sheet 2 3
 Title ""
 Date ""
 Rev ""
@@ -893,7 +893,7 @@ U 1 1 5F061370
 P 1950 3750
 F 0 "J1" H 1900 4050 50  0000 L CNN
 F 1 "To Left Hand" V 2050 3450 50  0000 L CNN
-F 2 "Connector_PinHeader_1.00mm:PinHeader_1x06_P1.00mm_Horizontal" H 1950 3750 50  0001 C CNN
+F 2 "Connector_PinHeader_2.54mm:PinHeader_1x06_P2.54mm_Horizontal" H 1950 3750 50  0001 C CNN
 F 3 "~" H 1950 3750 50  0001 C CNN
 	1    1950 3750
 	1    0    0    -1  

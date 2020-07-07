@@ -748,7 +748,7 @@ U 1 1 5F265F56
 P 2500 2000
 F 0 "J3" H 2450 2300 50  0000 L CNN
 F 1 "To Right Hand" V 2600 1650 50  0000 L CNN
-F 2 "Connector_PinHeader_1.00mm:PinHeader_1x06_P1.00mm_Horizontal" H 2500 2000 50  0001 C CNN
+F 2 "Connector_PinHeader_2.54mm:PinHeader_1x06_P2.54mm_Horizontal" H 2500 2000 50  0001 C CNN
 F 3 "~" H 2500 2000 50  0001 C CNN
 	1    2500 2000
 	1    0    0    -1  
@@ -787,7 +787,7 @@ U 1 1 5F4D7CE4
 P 2900 3600
 F 0 "J4" H 2850 3800 50  0000 L CNN
 F 1 "Jumper to Teensy USB" V 3000 3150 50  0000 L CNN
-F 2 "Connector_PinHeader_1.00mm:PinHeader_1x04_P1.00mm_Vertical" H 2900 3600 50  0001 C CNN
+F 2 "Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical" H 2900 3600 50  0001 C CNN
 F 3 "~" H 2900 3600 50  0001 C CNN
 	1    2900 3600
 	1    0    0    -1  
@@ -840,7 +840,7 @@ U 1 1 5EFF7D09
 P 1750 3600
 F 0 "J2" H 1700 3800 50  0000 L CNN
 F 1 "USB from outside" V 1850 3150 50  0000 L CNN
-F 2 "Connector_PinHeader_1.00mm:PinHeader_1x04_P1.00mm_Horizontal" H 1750 3600 50  0001 C CNN
+F 2 "Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Horizontal" H 1750 3600 50  0001 C CNN
 F 3 "~" H 1750 3600 50  0001 C CNN
 	1    1750 3600
 	1    0    0    -1  
