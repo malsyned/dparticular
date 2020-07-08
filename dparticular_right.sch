@@ -605,7 +605,7 @@ Wire Wire Line
 Connection ~ 9350 2450
 Wire Wire Line
 	9250 2700 9350 2700
-Text Label 9400 6350 1    50   ~ 0
+Text Label 9450 6350 1    50   ~ 0
 COL15
 Wire Wire Line
 	10000 4450 10250 4450
@@ -643,7 +643,7 @@ U 1 1 620F47B0
 P 1200 7000
 F 0 "D1" H 950 7350 50  0000 L CNN
 F 1 "NumLock" H 1350 6600 50  0000 L CNN
-F 2 "LED_THT:LED_D5.0mm-4_RGB" H 1250 6700 50  0001 L TNN
+F 2 "LED_THT:LED_D5.0mm-4_RGB_Wide_Pins" H 1250 6700 50  0001 L TNN
 F 3 "https://cdn.sparkfun.com/datasheets/Components/LED/COM-12877.pdf" H 1300 6625 50  0001 L TNN
 	1    1200 7000
 	1    0    0    -1  
@@ -654,7 +654,7 @@ U 1 1 620FEE3D
 P 2200 7000
 F 0 "D2" H 1950 7350 50  0000 L CNN
 F 1 "CapsLock" H 2350 6600 50  0000 L CNN
-F 2 "LED_THT:LED_D5.0mm-4_RGB" H 2250 6700 50  0001 L TNN
+F 2 "LED_THT:LED_D5.0mm-4_RGB_Wide_Pins" H 2250 6700 50  0001 L TNN
 F 3 "https://cdn.sparkfun.com/datasheets/Components/LED/COM-12877.pdf" H 2300 6625 50  0001 L TNN
 	1    2200 7000
 	1    0    0    -1  
@@ -665,7 +665,7 @@ U 1 1 62120EA3
 P 3200 7000
 F 0 "D3" H 2950 7350 50  0000 L CNN
 F 1 "ScrollLock" H 3350 6600 50  0000 L CNN
-F 2 "LED_THT:LED_D5.0mm-4_RGB" H 3250 6700 50  0001 L TNN
+F 2 "LED_THT:LED_D5.0mm-4_RGB_Wide_Pins" H 3250 6700 50  0001 L TNN
 F 3 "https://cdn.sparkfun.com/datasheets/Components/LED/COM-12877.pdf" H 3300 6625 50  0001 L TNN
 	1    3200 7000
 	1    0    0    -1  
