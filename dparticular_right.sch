@@ -3,7 +3,7 @@ EELAYER 30 0
 EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
-Sheet 2 3
+Sheet 1 1
 Title ""
 Date ""
 Rev ""
@@ -642,7 +642,7 @@ L LED:APA-106-F5 D1
 U 1 1 620F47B0
 P 1200 7000
 F 0 "D1" H 950 7350 50  0000 L CNN
-F 1 "APA-106-F5" H 1350 6600 50  0000 L CNN
+F 1 "ScrollLock" H 1350 6600 50  0000 L CNN
 F 2 "LED_THT:LED_D5.0mm-4_RGB" H 1250 6700 50  0001 L TNN
 F 3 "https://cdn.sparkfun.com/datasheets/Components/LED/COM-12877.pdf" H 1300 6625 50  0001 L TNN
 	1    1200 7000
@@ -653,7 +653,7 @@ L LED:APA-106-F5 D2
 U 1 1 620FEE3D
 P 2200 7000
 F 0 "D2" H 1950 7350 50  0000 L CNN
-F 1 "APA-106-F5" H 2350 6600 50  0000 L CNN
+F 1 "CapsLock" H 2350 6600 50  0000 L CNN
 F 2 "LED_THT:LED_D5.0mm-4_RGB" H 2250 6700 50  0001 L TNN
 F 3 "https://cdn.sparkfun.com/datasheets/Components/LED/COM-12877.pdf" H 2300 6625 50  0001 L TNN
 	1    2200 7000
@@ -664,7 +664,7 @@ L LED:APA-106-F5 D3
 U 1 1 62120EA3
 P 3200 7000
 F 0 "D3" H 2950 7350 50  0000 L CNN
-F 1 "APA-106-F5" H 3350 6600 50  0000 L CNN
+F 1 "NumLock" H 3350 6600 50  0000 L CNN
 F 2 "LED_THT:LED_D5.0mm-4_RGB" H 3250 6700 50  0001 L TNN
 F 3 "https://cdn.sparkfun.com/datasheets/Components/LED/COM-12877.pdf" H 3300 6625 50  0001 L TNN
 	1    3200 7000
@@ -933,8 +933,6 @@ LED_D
 Text Label 650  6900 0    50   ~ 0
 LED_D
 NoConn ~ 1750 3850
-Connection ~ 1750 950 
-Connection ~ 1750 1500
 $Comp
 L Device:C C1
 U 1 1 5F0F6E95
@@ -946,14 +944,6 @@ F 3 "~" H 1150 1200 50  0001 C CNN
 	1    1150 1200
 	1    0    0    -1  
 $EndComp
-Wire Wire Line
-	1150 950  1150 1050
-Wire Wire Line
-	1150 950  1750 950 
-Wire Wire Line
-	1150 1350 1150 1500
-Wire Wire Line
-	1150 1500 1750 1500
 Connection ~ 3200 6700
 Connection ~ 2200 6700
 Connection ~ 1200 6700
@@ -1507,4 +1497,26 @@ Wire Wire Line
 	10450 2050 10450 2850
 Wire Wire Line
 	10250 2850 10450 2850
+$Comp
+L power:+5V #PWR?
+U 1 1 5F0A0DBA
+P 1150 1050
+F 0 "#PWR?" H 1150 900 50  0001 C CNN
+F 1 "+5V" H 1165 1223 50  0000 C CNN
+F 2 "" H 1150 1050 50  0001 C CNN
+F 3 "" H 1150 1050 50  0001 C CNN
+	1    1150 1050
+	1    0    0    -1  
+$EndComp
+$Comp
+L ergodox:GND #PWR?
+U 1 1 5F0A11B8
+P 1150 1400
+F 0 "#PWR?" H 1150 1400 30  0001 C CNN
+F 1 "GND" H 1150 1330 30  0001 C CNN
+F 2 "" H 1150 1400 50  0001 C CNN
+F 3 "" H 1150 1400 50  0001 C CNN
+	1    1150 1400
+	1    0    0    -1  
+$EndComp
 $EndSCHEMATC
