@@ -1,6 +1,7 @@
 *-bak
 *.FCStd1
 *.bck
+*.net
 fp-info-cache
 *-cache.lib
 _autosave-*
