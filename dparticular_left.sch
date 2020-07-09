@@ -714,33 +714,33 @@ Text Label 2950 5800 0    50   ~ 0
 SDA
 Text Label 2950 5900 0    50   ~ 0
 LED_D
-Text Label 2950 4600 0    50   ~ 0
-COL1
-Text Label 2950 4700 0    50   ~ 0
-COL2
-Text Label 2950 4800 0    50   ~ 0
-COL3
-Text Label 2950 4900 0    50   ~ 0
-COL4
-Text Label 2950 5300 0    50   ~ 0
-COL8
 Text Label 2950 6700 0    50   ~ 0
-ROW1
+COL1
 Text Label 2950 6800 0    50   ~ 0
-ROW2
-Text Label 2950 5450 0    50   ~ 0
-ROW3
-Text Label 2950 5000 0    50   ~ 0
-COL5
+COL2
+Text Label 2950 6900 0    50   ~ 0
+COL3
+Text Label 2950 7000 0    50   ~ 0
+COL4
 Text Label 2950 5100 0    50   ~ 0
+COL8
+Text Label 2950 5550 0    50   ~ 0
+ROW1
+Text Label 2950 5450 0    50   ~ 0
+ROW2
+Text Label 2950 5300 0    50   ~ 0
+ROW3
+Text Label 2950 7100 0    50   ~ 0
+COL5
+Text Label 2950 7200 0    50   ~ 0
 COL6
 Text Label 2950 5200 0    50   ~ 0
 COL7
-Text Label 2950 7000 0    50   ~ 0
+Text Label 2950 4700 0    50   ~ 0
 ROW6
-Text Label 2950 6900 0    50   ~ 0
+Text Label 2950 4800 0    50   ~ 0
 ROW5
-Text Label 2950 5550 0    50   ~ 0
+Text Label 2950 4900 0    50   ~ 0
 ROW4
 $Comp
 L Connector_Generic:Conn_01x06 J3
@@ -1401,12 +1401,11 @@ Wire Wire Line
 Wire Wire Line
 	2050 1450 2050 1400
 Connection ~ 2050 1400
-Text Label 2950 7100 0    50   ~ 0
+Text Label 2950 4600 0    50   ~ 0
 ROW7
 NoConn ~ 2950 6000
 NoConn ~ 2950 6300
 NoConn ~ 2950 6400
-NoConn ~ 2950 7200
 NoConn ~ 2300 2100
 $Comp
 L dparticular:TEENSY2.0_ONLY_EDGES U2
@@ -1423,4 +1422,5 @@ Wire Wire Line
 	1650 6200 1650 6400
 Wire Wire Line
 	1650 6750 1650 6950
+NoConn ~ 2950 5000
 $EndSCHEMATC
