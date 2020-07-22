@@ -1423,4 +1423,26 @@ Wire Wire Line
 Wire Wire Line
 	1650 6750 1650 6950
 NoConn ~ 2950 5000
+$Comp
+L Mechanical:MountingHole H1
+U 1 1 5F19FD1C
+P 4450 7250
+F 0 "H1" H 4400 7400 50  0000 L CNN
+F 1 "USB Strain L" H 4200 7100 50  0000 L CNN
+F 2 "MountingHole:MountingHole_4.5mm" H 4450 7250 50  0001 C CNN
+F 3 "~" H 4450 7250 50  0001 C CNN
+	1    4450 7250
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H2
+U 1 1 5F1A0EB3
+P 5250 7250
+F 0 "H2" H 5200 7400 50  0000 L CNN
+F 1 "USB Strain R" H 5000 7100 50  0000 L CNN
+F 2 "MountingHole:MountingHole_4.5mm" H 5250 7250 50  0001 C CNN
+F 3 "~" H 5250 7250 50  0001 C CNN
+	1    5250 7250
+	1    0    0    -1  
+$EndComp
 $EndSCHEMATC
