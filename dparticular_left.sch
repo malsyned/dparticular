@@ -1435,17 +1435,6 @@ F 3 "~" H 5250 7250 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Switch:SW_Push_Dual SW1
-U 1 1 5F394B8D
-P 1400 5400
-F 0 "SW1" H 1400 5685 50  0000 C CNN
-F 1 "Reset" H 1400 5594 50  0000 C CNN
-F 2 "dparticular:JB15KP-2A" H 1400 5600 50  0001 C CNN
-F 3 "~" H 1400 5600 50  0001 C CNN
-	1    1400 5400
-	1    0    0    -1  
-$EndComp
-$Comp
 L ergodox:GND #PWR0103
 U 1 1 5F2A1C77
 P 1200 5650
@@ -1475,6 +1464,17 @@ F 1 "TEENSY2.0" H 2350 7341 60  0000 C CNN
 F 2 "dparticular:TEENSY_2.0_EDGES_ONLY" H 2350 5900 50  0001 C CNN
 F 3 "" H 2350 5900 50  0001 C CNN
 	1    2350 5900
+	1    0    0    -1  
+$EndComp
+$Comp
+L dparticular:SW_Push_4Pin SW1
+U 1 1 5F394B8D
+P 1400 5500
+F 0 "SW1" H 1400 5700 50  0000 C CNN
+F 1 "Reset" H 1400 5350 50  0000 C CNN
+F 2 "dparticular:JB15KP-2A" H 1400 5700 50  0001 C CNN
+F 3 "~" H 1400 5700 50  0001 C CNN
+	1    1400 5500
 	1    0    0    -1  
 $EndComp
 $EndSCHEMATC
