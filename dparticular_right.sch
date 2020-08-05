@@ -3,7 +3,7 @@ EELAYER 30 0
 EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
-Sheet 1 1
+Sheet 2 3
 Title ""
 Date ""
 Rev ""
@@ -822,7 +822,6 @@ F 3 "" H 1750 950 50  0001 C CNN
 $EndComp
 NoConn ~ 1750 1700
 NoConn ~ 1750 1800
-NoConn ~ -750 2250
 $Comp
 L ergodox:GND #PWR04
 U 1 1 5EFB0E4D
